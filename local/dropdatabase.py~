@@ -1,0 +1,10 @@
+import pymongo
+from pymongo import MongoClient
+import csv
+import sys
+import os
+
+client = MongoClient()
+client = MongoClient('localhost', 27017)
+
+client.drop_database('mydatabase')

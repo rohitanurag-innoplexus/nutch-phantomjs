@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<!-- Put site-specific property overrides in this file. -->
+<configuration>
+<property>
+<name>http.agent.name</name>
+<value>DemoWebCrawler</value>
+</property>
+<property>
+  <name>http.agent.name</name>
+  <value>Value_name</value>
+  <description>HTTP 'User-Agent' request header. MUST NOT be empty -
+  please set this to a single word uniquely related to your organization.
+
+  NOTE: You should also check other related properties:
+
+    http.robots.agents
+    http.agent.description
+    http.agent.url
+    http.agent.email
+    http.agent.version
+
+  and set their values appropriately.
+
+  </description>
+</property>
+
+<property>
+<name>http.accept.language</name>
+<value>ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3</value>
+<description>Value of the “Accept-Language” request header field.This allows selecting non-English language as default one to retrieve.It is a useful setting for search engines build for certain national group.
+</description>
+</property>
+
+<property>
+<name>parser.character.encoding.default</name>
+<value>utf-8</value>
+<description>The character encoding to fall back to when no other information is available </description>
+</property>
+
+<property>
+<name>storage.data.store.class</name>
+<value>org.apache.gora.mongodb.store.MongoStore</value>
+<description>The Gora DataStore class for storing and retrieving data.
+Currently the following stores are available: ….
+</description>
+</property>
+
+
+<!-- Add this property ,so that nutch can crawl into secure https based websites -->
+<property>
+ <name>plugin.includes</name>
+ <value>protocol-httpclient|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+</property>
+</configuration>
+

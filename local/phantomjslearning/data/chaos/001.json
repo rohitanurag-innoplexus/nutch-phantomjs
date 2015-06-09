@@ -1,0 +1,5963 @@
+{
+  "body": {
+    "bound": {
+      "height": 2649,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(68, 68, 68)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(68, 68, 68)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(68, 68, 68)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(68, 68, 68)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "border-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(68, 68, 68)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "Lato, sans-serif",
+      "font-size": "18px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "2649px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "30px",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(68, 68, 68)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [
+    "It's been a little while since I've posted, so my apologies. I have been SO busy! I just got a new job so that has definitely been taking up a lot of my time and the Fall Semester starts this coming Tuesday. It's been crazy, but it's been so good. I've found that I am…",
+    "It's been a little while since I've posted, so my apologies. I have been SO busy! I just got a new job so that has definitely been taking up a lot of my time and the Fall Semester starts this comin..."
+  ],
+  "titles": [
+    "All Things New | DAZED AND CONFUSED",
+    "All Things New"
+  ],
+  "url": "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/",
+  "links": [
+    "https://dazedandconfusedthoughts.wordpress.com/",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#content",
+    "http://dazedandconfusedemily.wordpress.com/",
+    "https://dazedandconfusedthoughts.wordpress.com/about/",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/",
+    "https://dazedandconfusedthoughts.wordpress.com/author/emsnyder95/",
+    "http://wordpress.com/about-these-ads/",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/?share=twitter&nb=1",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/?share=facebook&nb=1",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/?share=pinterest&nb=1",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#print",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/?share=email&nb=1",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/?share=tumblr&nb=1",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/07/14/who-you-are/",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/10/26/bliss/",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/11/05/spotless-mind/",
+    "https://dazedandconfusedthoughts.wordpress.com/category/blog/",
+    "https://dazedandconfusedthoughts.wordpress.com/category/life/",
+    "https://dazedandconfusedthoughts.wordpress.com/category/people/",
+    "https://dazedandconfusedthoughts.wordpress.com/category/quotes/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/blog/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/life/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/living/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/love/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/newthings/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/people/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/quotes/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/sadness/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/startingover/",
+    "https://dazedandconfusedthoughts.wordpress.com/tag/writing/",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/16/song-of-the-day-11/",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/23/just-be/",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#respond",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#comment-form-guest",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#comment-form-load-service:WordPress.com",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#comment-form-load-service:Twitter",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#comment-form-load-service:Facebook",
+    "https://gravatar.com/site/signup/",
+    "javascript:HighlanderComments.doExternalLogout(%20'wordpress'%20);",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#",
+    "javascript:HighlanderComments.doExternalLogout(%20'twitter'%20);",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#",
+    "javascript:HighlanderComments.doExternalLogout(%20'facebook'%20);",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#",
+    "javascript:HighlanderComments.doExternalLogout(%20'googleplus'%20);",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#",
+    "javascript:HighlanderComments.cancelExternalWindow();",
+    "https://wordpress.com/?ref=footer_website",
+    "https://wordpress.com/themes/hemingway-rewritten/",
+    "javascript:void(0)",
+    "https://wordpress.com/?ref=lof",
+    "https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/#cancel"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 102,
+        "left": 592,
+        "top": 190,
+        "width": 416
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "clear": "both",
+        "font-family": "Raleway, sans-serif",
+        "font-size": "30px",
+        "font-weight": "bold",
+        "letter-spacing": "4px",
+        "line-height": "51px",
+        "text-align": "center",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "site-title"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "<a href=\"https://dazedandconfusedthoughts.wordpress.com/\" rel=\"home\">DAZED AND CONFUSED</a>",
+      "path": [
+        "div",
+        "header",
+        "div",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-header"
+          ],
+          "id": "masthead",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "site-header-image"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-branding-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-title"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "DAZED AND CONFUSED"
+      ]
+    },
+    {
+      "bound": {
+        "height": 47,
+        "left": 591,
+        "top": 309,
+        "width": 418
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "clear": "both",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "Raleway, sans-serif",
+        "font-weight": "300",
+        "margin-bottom": "15px",
+        "margin-top": "15px",
+        "opacity": "0.6000000238418579",
+        "outline-color": "rgb(255, 255, 255)",
+        "text-align": "center",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [
+          "site-description"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "A blog by Emily Snyder",
+      "path": [
+        "div",
+        "header",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-header"
+          ],
+          "id": "masthead",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "site-header-image"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-branding-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-description"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "A blog by Emily Snyder"
+      ]
+    },
+    {
+      "bound": {
+        "height": 76,
+        "left": -13000,
+        "top": 578,
+        "width": 171
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgba(255, 255, 255, 0.597656)",
+        "border-left-color": "rgba(255, 255, 255, 0.597656)",
+        "border-right-color": "rgba(255, 255, 255, 0.597656)",
+        "border-top-color": "rgba(255, 255, 255, 0.597656)",
+        "clip": "rect(1px 1px 1px 1px)",
+        "color": "rgba(255, 255, 255, 0.597656)",
+        "font-size": "13px",
+        "letter-spacing": "1px",
+        "line-height": "22px",
+        "outline-color": "rgba(255, 255, 255, 0.597656)",
+        "padding-bottom": "16px",
+        "padding-left": "22px",
+        "padding-right": "22px",
+        "padding-top": "16px",
+        "position": "absolute",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "screen-reader-text",
+          "skip-link"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Skip to content",
+      "path": [
+        "div",
+        "nav",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clear",
+            "main-navigation"
+          ],
+          "id": "site-navigation",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "screen-reader-text",
+            "skip-link"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Skip to content"
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 280,
+        "top": 578,
+        "width": 84
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgba(255, 255, 255, 0.597656)",
+        "border-left-color": "rgba(255, 255, 255, 0.597656)",
+        "border-right-color": "rgba(255, 255, 255, 0.597656)",
+        "border-top-color": "rgba(255, 255, 255, 0.597656)",
+        "color": "rgba(255, 255, 255, 0.597656)",
+        "font-size": "13px",
+        "letter-spacing": "1px",
+        "line-height": "13px",
+        "list-style-type": "none",
+        "outline-color": "rgba(255, 255, 255, 0.597656)",
+        "padding-bottom": "16px",
+        "padding-left": "22px",
+        "padding-right": "22px",
+        "padding-top": "16px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Blog",
+      "path": [
+        "div",
+        "nav",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clear",
+            "main-navigation"
+          ],
+          "id": "site-navigation",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "menu-menu-1-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "menu",
+            "nav-menu"
+          ],
+          "id": "menu-menu-1",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "menu-item",
+            "menu-item-13",
+            "menu-item-object-custom",
+            "menu-item-type-custom"
+          ],
+          "id": "menu-item-13",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 364,
+        "top": 578,
+        "width": 94
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgba(255, 255, 255, 0.597656)",
+        "border-left-color": "rgba(255, 255, 255, 0.597656)",
+        "border-right-color": "rgba(255, 255, 255, 0.597656)",
+        "border-top-color": "rgba(255, 255, 255, 0.597656)",
+        "color": "rgba(255, 255, 255, 0.597656)",
+        "font-size": "13px",
+        "letter-spacing": "1px",
+        "line-height": "13px",
+        "list-style-type": "none",
+        "outline-color": "rgba(255, 255, 255, 0.597656)",
+        "padding-bottom": "16px",
+        "padding-left": "22px",
+        "padding-right": "22px",
+        "padding-top": "16px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "About",
+      "path": [
+        "div",
+        "nav",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clear",
+            "main-navigation"
+          ],
+          "id": "site-navigation",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "menu-menu-1-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "menu",
+            "nav-menu"
+          ],
+          "id": "menu-menu-1",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "menu-item",
+            "menu-item-14",
+            "menu-item-object-page",
+            "menu-item-type-post_type"
+          ],
+          "id": "menu-item-14",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "About"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 280,
+        "top": 723,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(45, 45, 45)",
+        "border-left-color": "rgb(45, 45, 45)",
+        "border-right-color": "rgb(45, 45, 45)",
+        "border-top-color": "rgb(45, 45, 45)",
+        "clear": "both",
+        "color": "rgb(45, 45, 45)",
+        "font-size": "45px",
+        "font-weight": "bold",
+        "line-height": "54px",
+        "outline-color": "rgb(45, 45, 45)"
+      },
+      "element": {
+        "classes": [
+          "entry-title"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "All Things New",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "header",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "entry-title"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "All Things New"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 280,
+        "top": 790,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "color": "rgb(109, 109, 109)",
+        "font-size": "14px",
+        "letter-spacing": "1px",
+        "line-height": "23px",
+        "margin-bottom": "11px",
+        "margin-top": "11px",
+        "outline-color": "rgb(109, 109, 109)",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "entry-meta"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n\t\t\t<span class=\"posted-on\"><a href=\"https://dazedandconfusedthoughts.wordpress.com/2014/08/19/all-things-new/\" rel=\"bookmark\"><time class=\"entry-date published\" datetime=\"2014-08-19T16:45:08+00:00\">August 19, 2014</time><time class=\"updated\" datetime=\"2014-08-20T03:32:24+00:00\">August 20, 2014</time></a></span><span class=\"byline\"><span class=\"sep\"> / </span><span class=\"author vcard\"><a class=\"url fn n\" href=\"https://dazedandconfusedthoughts.wordpress.com/author/emsnyder95/\">emsnyder95</a></span></span>\t\t\t\t\t",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "header",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "August 19, 2014",
+        " / ",
+        "emsnyder95"
+      ]
+    },
+    {
+      "bound": {
+        "height": 150,
+        "left": 280,
+        "top": 845,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-bottom": "30px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "It’s been a little while since I’ve posted, so my apologies. I have been SO busy! I just got a new job so that has definitely been taking up a lot of my time and the Fall Semester starts this coming Tuesday. It’s been crazy, but it’s been so good. I’ve found that I am at my happiest and best when I have a lot of things to do. It’s not good for me to be isolated for very long and this past week has been really wonderful. The distraction keeps me from thinking about people, my past and regrets and that is what’s best for me right now. ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "It’s been a little while since I’ve posted, so my apologies. I have been SO busy! I just got a new job so that has definitely been taking up a lot of my time and the Fall Semester starts this coming Tuesday. It’s been crazy, but it’s been so good. I’ve found that I am at my happiest and best when I have a lot of things to do. It’s not good for me to be isolated for very long and this past week has been really wonderful. The distraction keeps me from thinking about people, my past and regrets and that is what’s best for me right now. "
+      ]
+    },
+    {
+      "bound": {
+        "height": 210,
+        "left": 280,
+        "top": 1027,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-bottom": "30px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "This is a new chapter starting for me. It’s hard letting go of the past and some days are still horrible, but I’m learning. I’m making new relationships, beginning a new semester and starting a new job. The people at my work are so cool and I’m absolutely excited to get to know them better. Over the past few months I’ve really lost a lot of my friends. And it’s understandable because I really messed up with them. But I also realized the ones who were really there for me, regardless of my screwed up actions. And I also realized the ones who were NEVER there for me even when I thought they were. So, maybe in the long run I’ve been better off for it. But regardless, I’ve said a lot of goodbyes and they were all hard and painful. It never becomes easier and you never really forget them.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "This is a new chapter starting for me. It’s hard letting go of the past and some days are still horrible, but I’m learning. I’m making new relationships, beginning a new semester and starting a new job. The people at my work are so cool and I’m absolutely excited to get to know them better. Over the past few months I’ve really lost a lot of my friends. And it’s understandable because I really messed up with them. But I also realized the ones who were really there for me, regardless of my screwed up actions. And I also realized the ones who were NEVER there for me even when I thought they were. So, maybe in the long run I’ve been better off for it. But regardless, I’ve said a lot of goodbyes and they were all hard and painful. It never becomes easier and you never really forget them."
+      ]
+    },
+    {
+      "bound": {
+        "height": 90,
+        "left": 280,
+        "top": 1269,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-bottom": "30px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Anyway, this is where I am. The past few months I have been constantly thinking <em>“good things are coming, good things are coming, good things are coming…” </em>And those good things have finally gotten here and I couldnt be more excited. I don’t know how long they’re staying but I’m holding onto them for as long as possible.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Anyway, this is where I am. The past few months I have been constantly thinking ",
+        "“good things are coming, good things are coming, good things are coming…” ",
+        "And those good things have finally gotten here and I couldnt be more excited. I don’t know how long they’re staying but I’m holding onto them for as long as possible."
+      ]
+    },
+    {
+      "bound": {
+        "height": 120,
+        "left": 280,
+        "top": 1391,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-bottom": "30px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": " To all of you wonderful humans, remember that there are dark days. Days that everything seems done. That you’ve ruined every single aspect of your life and hurt everyone you’ve ever cared about. But there are brighter days. And they are coming. They may not be here yet and they might not stay long. But remember that they do exist and that pain, sadness, grief, longing and regret is all temporary. Good things are coming!",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        " To all of you wonderful humans, remember that there are dark days. Days that everything seems done. That you’ve ruined every single aspect of your life and hurt everyone you’ve ever cared about. But there are brighter days. And they are coming. They may not be here yet and they might not stay long. But remember that they do exist and that pain, sadness, grief, longing and regret is all temporary. Good things are coming!"
+      ]
+    },
+    {
+      "bound": {
+        "height": 10,
+        "left": 800,
+        "top": 1548,
+        "width": 160
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(139, 104, 28)",
+        "border-left-color": "rgb(139, 104, 28)",
+        "border-right-color": "rgb(139, 104, 28)",
+        "border-top-color": "rgb(139, 104, 28)",
+        "color": "rgb(139, 104, 28)",
+        "font-family": "'Open Sans', Arial, sans-serif",
+        "font-size": "10px",
+        "line-height": "10px",
+        "min-width": "160px",
+        "opacity": "0.8500000238418579",
+        "outline-color": "rgb(139, 104, 28)",
+        "position": "absolute",
+        "text-align": "left",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [
+          "wpa-about"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "About these ads",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wpcnt"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wpa"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wpa-about"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "About these ads"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 280,
+        "top": 1578,
+        "width": 66
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "clear": "both",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "14px",
+        "margin-bottom": "12px"
+      },
+      "element": {
+        "classes": [
+          "sd-title"
+        ],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Share this:",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-title"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Share this:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 280,
+        "top": 1622,
+        "width": 76
+      },
+      "computed": {
+        "background-color": "rgb(248, 248, 248)",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-bottom-left-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(204, 204, 204)",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-shadow": "rgba(0, 0, 0, 0.078125) 0px 1px 0px 0px",
+        "color": "rgb(119, 119, 119)",
+        "display": "inline-block",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "12px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "margin-right": "5px",
+        "outline-color": "rgb(119, 119, 119)",
+        "padding-left": "5px",
+        "padding-right": "8px",
+        "padding-top": "1px"
+      },
+      "element": {
+        "classes": [
+          "sd-button",
+          "share-icon",
+          "share-twitter"
+        ],
+        "id": "sharing-twitter-636",
+        "name": "a"
+      },
+      "html": "<span>Twitter</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-twitter"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-icon",
+            "share-twitter"
+          ],
+          "id": "sharing-twitter-636",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Twitter"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 361,
+        "top": 1622,
+        "width": 95
+      },
+      "computed": {
+        "background-color": "rgb(248, 248, 248)",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-bottom-left-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(204, 204, 204)",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-shadow": "rgba(0, 0, 0, 0.078125) 0px 1px 0px 0px",
+        "color": "rgb(119, 119, 119)",
+        "display": "inline-block",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "12px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "margin-right": "5px",
+        "outline-color": "rgb(119, 119, 119)",
+        "padding-left": "5px",
+        "padding-right": "8px",
+        "padding-top": "1px"
+      },
+      "element": {
+        "classes": [
+          "sd-button",
+          "share-facebook",
+          "share-icon"
+        ],
+        "id": "sharing-facebook-636",
+        "name": "a"
+      },
+      "html": "<span>Facebook</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-facebook"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-facebook",
+            "share-icon"
+          ],
+          "id": "sharing-facebook-636",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Facebook"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 461,
+        "top": 1622,
+        "width": 91
+      },
+      "computed": {
+        "background-color": "rgb(248, 248, 248)",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-bottom-left-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(204, 204, 204)",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-shadow": "rgba(0, 0, 0, 0.078125) 0px 1px 0px 0px",
+        "color": "rgb(119, 119, 119)",
+        "display": "inline-block",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "12px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "margin-right": "5px",
+        "outline-color": "rgb(119, 119, 119)",
+        "padding-left": "5px",
+        "padding-right": "8px",
+        "padding-top": "1px"
+      },
+      "element": {
+        "classes": [
+          "sd-button",
+          "share-icon",
+          "share-pinterest"
+        ],
+        "id": "sharing-pinterest-636",
+        "name": "a"
+      },
+      "html": "<span>Pinterest</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-pinterest"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-icon",
+            "share-pinterest"
+          ],
+          "id": "sharing-pinterest-636",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Pinterest"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 557,
+        "top": 1622,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgb(248, 248, 248)",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-bottom-left-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(204, 204, 204)",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-shadow": "rgba(0, 0, 0, 0.078125) 0px 1px 0px 0px",
+        "color": "rgb(119, 119, 119)",
+        "display": "inline-block",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "12px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "margin-right": "5px",
+        "outline-color": "rgb(119, 119, 119)",
+        "padding-left": "5px",
+        "padding-right": "8px",
+        "padding-top": "1px"
+      },
+      "element": {
+        "classes": [
+          "sd-button",
+          "share-icon",
+          "share-print"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span>Print</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-print"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-icon",
+            "share-print"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Print"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 625,
+        "top": 1622,
+        "width": 67
+      },
+      "computed": {
+        "background-color": "rgb(248, 248, 248)",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-bottom-left-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(204, 204, 204)",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-shadow": "rgba(0, 0, 0, 0.078125) 0px 1px 0px 0px",
+        "color": "rgb(119, 119, 119)",
+        "display": "inline-block",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "12px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "margin-right": "5px",
+        "outline-color": "rgb(119, 119, 119)",
+        "padding-left": "5px",
+        "padding-right": "8px",
+        "padding-top": "1px"
+      },
+      "element": {
+        "classes": [
+          "sd-button",
+          "share-email",
+          "share-icon"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span>Email</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-email",
+            "share-service-visible"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-email",
+            "share-icon"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Email"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 697,
+        "top": 1622,
+        "width": 76
+      },
+      "computed": {
+        "background-color": "rgb(248, 248, 248)",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-bottom-left-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(204, 204, 204)",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-shadow": "rgba(0, 0, 0, 0.078125) 0px 1px 0px 0px",
+        "color": "rgb(119, 119, 119)",
+        "display": "inline-block",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "12px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "margin-right": "5px",
+        "outline-color": "rgb(119, 119, 119)",
+        "padding-left": "5px",
+        "padding-right": "8px",
+        "padding-top": "1px"
+      },
+      "element": {
+        "classes": [
+          "sd-button",
+          "share-icon",
+          "share-tumblr"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span>Tumblr</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-tumblr"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-icon",
+            "share-tumblr"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Tumblr"
+      ]
+    },
+    {
+      "bound": {
+        "height": 55,
+        "left": 280,
+        "top": 1665,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "position": "relative"
+      },
+      "element": {
+        "classes": [
+          "likes-widget-placeholder",
+          "post-likes-widget-placeholder"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "<span class=\"button\"><span>Like</span></span> <span class=\"loading\">Loading...</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jetpack-likes-widget-loaded",
+            "jetpack-likes-widget-wrapper",
+            "sd-block",
+            "sd-like",
+            "sharedaddy"
+          ],
+          "id": "like-post-wrapper-67908428-636-556fe86877651",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "likes-widget-placeholder",
+            "post-likes-widget-placeholder"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Loading..."
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 280,
+        "top": 1756,
+        "width": 46
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "clear": "both",
+        "float": "left",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "20px",
+        "margin-bottom": "12px"
+      },
+      "element": {
+        "classes": [
+          "jp-relatedposts-headline"
+        ],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "<em>Related</em>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts"
+          ],
+          "id": "jp-relatedposts",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-headline"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Related"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 280,
+        "top": 1790,
+        "width": 308
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "14px",
+        "line-height": "20px",
+        "max-width": "90%",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-overflow": "ellipsis"
+      },
+      "element": {
+        "classes": [
+          "jp-relatedposts-post-title"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "<a class=\"jp-relatedposts-post-a\" href=\"https://dazedandconfusedthoughts.wordpress.com/2014/07/14/who-you-are/\" title=\"Who You Are\n\nIn approximately 1 month I'll be starting my sophomore year of college. I haven't really written much about what I'm doing, mainly because it's been a changing process over the last year. I started off wanting to major in Psychology, go to graduate school and then enter into Social Work…\" rel=\"nofollow\" data-origin=\"636\" data-position=\"0\">Who You Are</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts"
+          ],
+          "id": "jp-relatedposts",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-items",
+            "jp-relatedposts-items-minimal"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post",
+            "jp-relatedposts-post0"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post-title"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Who You Are"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 280,
+        "top": 1812,
+        "width": 308
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "14px",
+        "line-height": "20px",
+        "max-width": "90%",
+        "opacity": "0.6000000238418579",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-overflow": "ellipsis",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [
+          "jp-relatedposts-post-context"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "In \"blog\"",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts"
+          ],
+          "id": "jp-relatedposts",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-items",
+            "jp-relatedposts-items-minimal"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post",
+            "jp-relatedposts-post0"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post-context"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "In \"blog\""
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 623,
+        "top": 1790,
+        "width": 308
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "14px",
+        "line-height": "20px",
+        "max-width": "90%",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-overflow": "ellipsis"
+      },
+      "element": {
+        "classes": [
+          "jp-relatedposts-post-title"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "<a class=\"jp-relatedposts-post-a\" href=\"https://dazedandconfusedthoughts.wordpress.com/2014/10/26/bliss/\" title=\"Bliss\n\nSo many good things have been happening. It's almost too good to be true. I've been reconnecting with old friends and making new ones. Life has been so good to me these past months. I am so excited about the way my future is going and I can't believe the…\" rel=\"nofollow\" data-origin=\"636\" data-position=\"1\">Bliss</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts"
+          ],
+          "id": "jp-relatedposts",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-items",
+            "jp-relatedposts-items-minimal"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post",
+            "jp-relatedposts-post1"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post-title"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Bliss"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 623,
+        "top": 1812,
+        "width": 308
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "14px",
+        "line-height": "20px",
+        "max-width": "90%",
+        "opacity": "0.6000000238418579",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-overflow": "ellipsis",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [
+          "jp-relatedposts-post-context"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "In \"music\"",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts"
+          ],
+          "id": "jp-relatedposts",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-items",
+            "jp-relatedposts-items-minimal"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post",
+            "jp-relatedposts-post1"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post-context"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "In \"music\""
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 966,
+        "top": 1790,
+        "width": 308
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "14px",
+        "line-height": "20px",
+        "max-width": "90%",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-overflow": "ellipsis"
+      },
+      "element": {
+        "classes": [
+          "jp-relatedposts-post-title"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "<a class=\"jp-relatedposts-post-a\" href=\"https://dazedandconfusedthoughts.wordpress.com/2014/11/05/spotless-mind/\" title=\"Spotless Mind\n\nSo, it's been way too long since I've posted anything and I've felt so bad. Mainly because I've really needed to do this. I've been so busy and distracted the last week that I haven't had time for anything. But I've been sick for the past 2 days so I've…\" rel=\"nofollow\" data-origin=\"636\" data-position=\"2\">Spotless Mind</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts"
+          ],
+          "id": "jp-relatedposts",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-items",
+            "jp-relatedposts-items-minimal"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post",
+            "jp-relatedposts-post2"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post-title"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Spotless Mind"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 966,
+        "top": 1812,
+        "width": 308
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "14px",
+        "line-height": "20px",
+        "max-width": "90%",
+        "opacity": "0.6000000238418579",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-overflow": "ellipsis",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [
+          "jp-relatedposts-post-context"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "In \"blog\"",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-like-enabled",
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "jp-post-flair",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts"
+          ],
+          "id": "jp-relatedposts",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-items",
+            "jp-relatedposts-items-minimal"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post",
+            "jp-relatedposts-post2"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "jp-relatedposts-post-context"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "In \"blog\""
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 280,
+        "top": 1896,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "color": "rgb(109, 109, 109)",
+        "font-size": "14px",
+        "letter-spacing": "1px",
+        "line-height": "23px",
+        "margin-bottom": "23px",
+        "outline-color": "rgb(109, 109, 109)",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "entry-categories"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n\t\t\t\t\t<a href=\"https://dazedandconfusedthoughts.wordpress.com/category/blog/\" rel=\"category tag\">blog</a>, <a href=\"https://dazedandconfusedthoughts.wordpress.com/category/life/\" rel=\"category tag\">life</a>, <a href=\"https://dazedandconfusedthoughts.wordpress.com/category/people/\" rel=\"category tag\">people</a>, <a href=\"https://dazedandconfusedthoughts.wordpress.com/category/quotes/\" rel=\"category tag\">quotes</a>\t\t\t\t",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-categories"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "blog",
+        ", ",
+        "life",
+        ", ",
+        "people",
+        ", ",
+        "quotes"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 292,
+        "top": 1963,
+        "width": 49
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "blog",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 361,
+        "top": 1963,
+        "width": 41
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "life",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "life"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 422,
+        "top": 1963,
+        "width": 59
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "living",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "living"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 501,
+        "top": 1963,
+        "width": 47
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "love",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "love"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 568,
+        "top": 1963,
+        "width": 95
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "newthings",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "newthings"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 683,
+        "top": 1963,
+        "width": 64
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "people",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "people"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 767,
+        "top": 1963,
+        "width": 67
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "quotes",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "quotes"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 854,
+        "top": 1963,
+        "width": 75
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "sadness",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "sadness"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 949,
+        "top": 1963,
+        "width": 114
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "startingover",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "startingover"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 1083,
+        "top": 1963,
+        "width": 72
+      },
+      "computed": {
+        "background-color": "rgba(118, 118, 118, 0.398438)",
+        "border-bottom-color": "rgb(109, 109, 109)",
+        "border-bottom-right-radius": "2px",
+        "border-left-color": "rgb(109, 109, 109)",
+        "border-right-color": "rgb(109, 109, 109)",
+        "border-top-color": "rgb(109, 109, 109)",
+        "border-top-right-radius": "2px",
+        "color": "rgb(109, 109, 109)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "letter-spacing": "1px",
+        "line-height": "12px",
+        "margin-bottom": "10px",
+        "margin-right": "20px",
+        "margin-top": "10px",
+        "outline-color": "rgb(109, 109, 109)",
+        "padding-bottom": "6px",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "padding-top": "6px",
+        "position": "relative",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "writing",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "article",
+        "footer",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-life",
+            "category-people",
+            "category-quotes",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-636",
+            "status-publish",
+            "tag-blog",
+            "tag-life",
+            "tag-living",
+            "tag-love",
+            "tag-newthings",
+            "tag-people",
+            "tag-quotes",
+            "tag-sadness",
+            "tag-startingover",
+            "tag-writing",
+            "type-post"
+          ],
+          "id": "post-636",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-meta"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "entry-tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "writing"
+      ]
+    },
+    {
+      "bound": {
+        "height": 61,
+        "left": -36000,
+        "top": 2168,
+        "width": 284
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "clear": "both",
+        "clip": "rect(1px 1px 1px 1px)",
+        "font-size": "36px",
+        "font-weight": "bold",
+        "line-height": "61px",
+        "margin-bottom": "30px",
+        "margin-top": "30px",
+        "position": "absolute"
+      },
+      "element": {
+        "classes": [
+          "screen-reader-text"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "Post navigation",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "nav",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "navigation",
+            "post-navigation"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "screen-reader-text"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "Post navigation"
+      ]
+    },
+    {
+      "bound": {
+        "height": 81,
+        "left": 280,
+        "top": 2138,
+        "width": 509
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "left",
+        "font-size": "16px",
+        "line-height": "27px",
+        "max-width": "49%",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "27px",
+        "padding-top": "27px",
+        "position": "relative"
+      },
+      "element": {
+        "classes": [
+          "nav-previous"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "<a href=\"https://dazedandconfusedthoughts.wordpress.com/2014/08/16/song-of-the-day-11/\" rel=\"prev\"><span class=\"meta-nav\">←</span> Song of the&nbsp;Day</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "nav",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "navigation",
+            "post-navigation"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-links"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-previous"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "←",
+        " Song of the Day"
+      ]
+    },
+    {
+      "bound": {
+        "height": 81,
+        "left": 811,
+        "top": 2138,
+        "width": 509
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "16px",
+        "line-height": "27px",
+        "max-width": "49%",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "27px",
+        "padding-top": "27px",
+        "position": "relative",
+        "text-align": "right"
+      },
+      "element": {
+        "classes": [
+          "nav-next"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "<a href=\"https://dazedandconfusedthoughts.wordpress.com/2014/08/23/just-be/\" rel=\"next\">|just be| <span class=\"meta-nav\">→</span></a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "nav",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "navigation",
+            "post-navigation"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-links"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-next"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "|just be| ",
+        "→"
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 280,
+        "top": 2282,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "clear": "both",
+        "font-family": "Arial, Helvetica, Tahoma, Verdana, sans-serif",
+        "font-size": "27px",
+        "font-weight": "bold",
+        "line-height": "45px",
+        "margin-bottom": "15px",
+        "margin-top": "15px"
+      },
+      "element": {
+        "classes": [
+          "comment-reply-title"
+        ],
+        "id": "reply-title",
+        "name": "h3"
+      },
+      "html": "Leave a Reply <small><a rel=\"nofollow\" id=\"cancel-comment-reply-link\" href=\"/2014/08/19/all-things-new/#respond\" style=\"display:none;\">Cancel reply</a></small>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "main",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-content"
+          ],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-area"
+          ],
+          "id": "primary",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-main"
+          ],
+          "id": "main",
+          "name": "main"
+        },
+        {
+          "classes": [
+            "comments-area"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comment-respond",
+            "js"
+          ],
+          "id": "respond",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comment-reply-title"
+          ],
+          "id": "reply-title",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Leave a Reply "
+      ]
+    },
+    {
+      "bound": {
+        "height": 71,
+        "left": 280,
+        "top": 2638,
+        "width": 1040
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgba(255, 255, 255, 0.398438)",
+        "border-left-color": "rgba(255, 255, 255, 0.398438)",
+        "border-right-color": "rgba(255, 255, 255, 0.398438)",
+        "border-top-color": "rgba(255, 255, 255, 0.0976562)",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgba(255, 255, 255, 0.398438)",
+        "font-size": "14px",
+        "letter-spacing": "1px",
+        "line-height": "23px",
+        "max-width": "86%",
+        "outline-color": "rgba(255, 255, 255, 0.398438)",
+        "padding-bottom": "23px",
+        "padding-top": "23px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "site-info"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n\t\t\t<a href=\"https://wordpress.com/?ref=footer_website\">Create a free website or blog at WordPress.com</a>.\n\t\t\t<span class=\"sep\"> | </span>\n\t\t\t<a href=\"https://wordpress.com/themes/hemingway-rewritten/\" title=\"Learn more about this theme\">The Hemingway Rewritten Theme</a>.\t\t",
+      "path": [
+        "div",
+        "footer",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "hfeed",
+            "site"
+          ],
+          "id": "page",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "site-footer"
+          ],
+          "id": "colophon",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "site-info"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Create a free website or blog at WordPress.com",
+        ".\n\t\t\t",
+        " | ",
+        "The Hemingway Rewritten Theme",
+        ".\t\t"
+      ]
+    },
+    {
+      "bound": {
+        "height": 28,
+        "left": 1508,
+        "top": 3973,
+        "width": 82
+      },
+      "computed": {
+        "background-color": "rgb(50, 65, 85)",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-top-color": "rgb(204, 204, 204)",
+        "border-top-left-radius": "2px",
+        "border-top-right-radius": "2px",
+        "box-shadow": "rgba(0, 0, 0, 0.199219) 0px -1px 5px 0px",
+        "color": "rgb(204, 204, 204)",
+        "float": "right",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "13px",
+        "line-height": "28px",
+        "outline-color": "rgb(204, 204, 204)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-left": "8px",
+        "padding-right": "10px"
+      },
+      "element": {
+        "classes": [
+          "bsub"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span id=\"bsub-text\">Follow</span>",
+      "path": [
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "loggedout-follow-normal"
+          ],
+          "id": "bit",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bsub"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Follow"
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 1405,
+        "top": 4015,
+        "width": 170
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(210, 222, 230)",
+        "border-left-color": "rgb(210, 222, 230)",
+        "border-right-color": "rgb(210, 222, 230)",
+        "border-top-color": "rgb(210, 222, 230)",
+        "clear": "both",
+        "color": "rgb(210, 222, 230)",
+        "font-family": "Merriweather, serif",
+        "font-size": "20px",
+        "font-weight": "bold",
+        "line-height": "normal",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(210, 222, 230)",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "<label for=\"loggedout-follow-field\">Follow “DAZED AND CONFUSED”</label>",
+      "path": [
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "loggedout-follow-normal"
+          ],
+          "id": "bit",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bitsubscribe",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Follow “DAZED AND CONFUSED”"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 1405,
+        "top": 4097,
+        "width": 170
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "14px",
+        "font-weight": "300",
+        "line-height": "20px",
+        "margin-bottom": "14px",
+        "outline-color": "rgb(255, 255, 255)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Get every new post delivered to your Inbox.",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "loggedout-follow-normal"
+          ],
+          "id": "bit",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bitsubscribe",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "loggedout-follow",
+          "name": "form"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Get every new post delivered to your Inbox."
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 1405,
+        "top": 4143,
+        "width": 170
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(210, 222, 230)",
+        "border-left-color": "rgb(210, 222, 230)",
+        "border-right-color": "rgb(210, 222, 230)",
+        "border-top-color": "rgb(210, 222, 230)",
+        "color": "rgb(210, 222, 230)",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "300",
+        "line-height": "18px",
+        "margin-bottom": "13px",
+        "margin-top": "-8px",
+        "outline-color": "rgb(210, 222, 230)"
+      },
+      "element": {
+        "classes": [
+          "bit-follow-count"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Join 223 other followers",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "loggedout-follow-normal"
+          ],
+          "id": "bit",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bitsubscribe",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "loggedout-follow",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "bit-follow-count"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Join 223 other followers"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 1405,
+        "top": 4273,
+        "width": 170
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(60, 60, 60)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Open Sans', sans-serif",
+        "font-size": "11px",
+        "line-height": "normal",
+        "margin-bottom": "-15px",
+        "outline-color": "rgb(255, 255, 255)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "7px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "bsub-credit",
+        "name": "div"
+      },
+      "html": "<a href=\"https://wordpress.com/?ref=lof\">Build a website with WordPress.com</a>",
+      "path": [
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "loggedout-follow-normal"
+          ],
+          "id": "bit",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bitsubscribe",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bsub-credit",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Build a website with WordPress.com"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 5,
+        "left": 797,
+        "top": 2689,
+        "width": 6
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-top": "-20px",
+        "max-width": "100%",
+        "position": "relative"
+      },
+      "element": {
+        "classes": [],
+        "id": "wpstats",
+        "name": "img"
+      },
+      "path": [
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wpstats",
+          "name": "img"
+        }
+      ],
+      "src": "https://pixel.wp.com/g.gif?blog=67908428&v=wpcom&tz=0&user_id=0&post=636&subd=dazedandconfusedthoughts&host=dazedandconfusedthoughts.wordpress.com&ref=&rand=0.020858887350186706"
+    }
+  ]
+}

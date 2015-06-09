@@ -1,0 +1,572 @@
+2015-06-09 12:44:15,829 INFO  crawl.InjectorJob - InjectorJob: starting at 2015-06-09 12:44:15
+2015-06-09 12:44:15,829 INFO  crawl.InjectorJob - InjectorJob: Injecting urlDir: urls/ranurag
+2015-06-09 12:44:17,625 INFO  crawl.InjectorJob - InjectorJob: Using class org.apache.gora.mongodb.store.MongoStore as the Gora storage class.
+2015-06-09 12:44:17,698 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:44:17,777 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2015-06-09 12:44:18,412 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:44:18,426 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:44:18,435 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:44:18,543 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-06-09 12:44:18,702 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-06-09 12:44:18,804 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:44:19,142 INFO  crawl.InjectorJob - InjectorJob: total number of urls rejected by filters: 0
+2015-06-09 12:44:19,142 INFO  crawl.InjectorJob - InjectorJob: total number of urls injected after normalization and filtering: 2
+2015-06-09 12:44:19,143 INFO  crawl.InjectorJob - Injector: finished at 2015-06-09 12:44:19, elapsed: 00:00:03
+2015-06-09 12:44:19,654 INFO  crawl.GeneratorJob - GeneratorJob: starting at 2015-06-09 12:44:19
+2015-06-09 12:44:19,654 INFO  crawl.GeneratorJob - GeneratorJob: Selecting best-scoring urls due for fetch.
+2015-06-09 12:44:19,654 INFO  crawl.GeneratorJob - GeneratorJob: starting
+2015-06-09 12:44:19,654 INFO  crawl.GeneratorJob - GeneratorJob: filtering: true
+2015-06-09 12:44:19,655 INFO  crawl.GeneratorJob - GeneratorJob: normalizing: true
+2015-06-09 12:44:19,655 INFO  crawl.GeneratorJob - GeneratorJob: topN: 80
+2015-06-09 12:44:19,864 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-06-09 12:44:19,864 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-06-09 12:44:19,864 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-06-09 12:44:20,382 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:44:20,768 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:44:20,775 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:44:20,781 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:44:20,810 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-06-09 12:44:20,810 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-06-09 12:44:20,810 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-06-09 12:44:20,862 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
+2015-06-09 12:44:20,940 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:44:21,599 INFO  crawl.GeneratorJob - GeneratorJob: finished at 2015-06-09 12:44:21, time elapsed: 00:00:01
+2015-06-09 12:44:21,599 INFO  crawl.GeneratorJob - GeneratorJob: generated batch id: 1433834059-352709112 containing 1 URLs
+2015-06-09 12:44:22,104 INFO  fetcher.FetcherJob - FetcherJob: starting at 2015-06-09 12:44:22
+2015-06-09 12:44:22,104 INFO  fetcher.FetcherJob - FetcherJob: fetching all
+2015-06-09 12:44:22,105 INFO  fetcher.FetcherJob - FetcherJob: threads: 10
+2015-06-09 12:44:22,105 INFO  fetcher.FetcherJob - FetcherJob: parsing: false
+2015-06-09 12:44:22,105 INFO  fetcher.FetcherJob - FetcherJob: resuming: false
+2015-06-09 12:44:22,106 INFO  fetcher.FetcherJob - FetcherJob : timelimit set for : -1
+2015-06-09 12:44:22,374 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:44:22,382 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:44:22,389 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:44:22,755 INFO  httpclient.Http - http.proxy.host = null
+2015-06-09 12:44:22,755 INFO  httpclient.Http - http.proxy.port = 8080
+2015-06-09 12:44:22,755 INFO  httpclient.Http - http.timeout = 10000
+2015-06-09 12:44:22,755 INFO  httpclient.Http - http.content.limit = 65536
+2015-06-09 12:44:22,755 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-06-09 12:44:22,756 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-06-09 12:44:22,756 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-06-09 12:44:22,784 INFO  httpclient.Http - http.proxy.host = null
+2015-06-09 12:44:22,784 INFO  httpclient.Http - http.proxy.port = 8080
+2015-06-09 12:44:22,784 INFO  httpclient.Http - http.timeout = 10000
+2015-06-09 12:44:22,784 INFO  httpclient.Http - http.content.limit = 65536
+2015-06-09 12:44:22,784 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-06-09 12:44:22,784 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-06-09 12:44:22,784 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-06-09 12:44:23,190 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:44:23,627 INFO  fetcher.FetcherJob - Using queue mode : byHost
+2015-06-09 12:44:23,628 INFO  fetcher.FetcherJob - Fetcher: threads: 10
+2015-06-09 12:44:23,635 INFO  fetcher.FetcherJob - QueueFeeder finished: total 1 records. Hit by time limit :0
+2015-06-09 12:44:23,641 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/secondary-recurrent-pregnancy-loss (queue crawl delay=5000ms)
+2015-06-09 12:44:23,645 INFO  httpclient.Http - http.proxy.host = null
+2015-06-09 12:44:23,645 INFO  httpclient.Http - http.proxy.port = 8080
+2015-06-09 12:44:23,645 INFO  httpclient.Http - http.timeout = 10000
+2015-06-09 12:44:23,645 INFO  httpclient.Http - http.content.limit = 65536
+2015-06-09 12:44:23,645 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-06-09 12:44:23,645 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-06-09 12:44:23,645 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-06-09 12:44:23,643 INFO  fetcher.FetcherJob - -finishing thread FetcherThread8, activeThreads=1
+2015-06-09 12:44:23,643 INFO  fetcher.FetcherJob - -finishing thread FetcherThread7, activeThreads=1
+2015-06-09 12:44:23,643 INFO  fetcher.FetcherJob - -finishing thread FetcherThread6, activeThreads=1
+2015-06-09 12:44:23,643 INFO  fetcher.FetcherJob - -finishing thread FetcherThread5, activeThreads=1
+2015-06-09 12:44:23,642 INFO  fetcher.FetcherJob - -finishing thread FetcherThread3, activeThreads=1
+2015-06-09 12:44:23,642 INFO  fetcher.FetcherJob - -finishing thread FetcherThread4, activeThreads=1
+2015-06-09 12:44:23,642 INFO  fetcher.FetcherJob - -finishing thread FetcherThread2, activeThreads=1
+2015-06-09 12:44:23,641 INFO  fetcher.FetcherJob - -finishing thread FetcherThread1, activeThreads=1
+2015-06-09 12:44:23,651 INFO  fetcher.FetcherJob - Fetcher: throughput threshold: -1
+2015-06-09 12:44:23,651 INFO  fetcher.FetcherJob - Fetcher: throughput threshold sequence: 5
+2015-06-09 12:44:23,652 INFO  fetcher.FetcherJob - -finishing thread FetcherThread9, activeThreads=1
+2015-06-09 12:44:25,975 INFO  fetcher.FetcherJob - -finishing thread FetcherThread0, activeThreads=0
+2015-06-09 12:44:28,652 INFO  fetcher.FetcherJob - 0/0 spinwaiting/active, 1 pages, 0 errors, 0.2 0 pages/s, 102 102 kb/s, 0 URLs in 0 queues
+2015-06-09 12:44:28,652 INFO  fetcher.FetcherJob - -activeThreads=0
+2015-06-09 12:44:28,655 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:44:29,419 INFO  fetcher.FetcherJob - FetcherJob: finished at 2015-06-09 12:44:29, time elapsed: 00:00:07
+2015-06-09 12:44:29,922 INFO  parse.ParserJob - ParserJob: starting at 2015-06-09 12:44:29
+2015-06-09 12:44:29,923 INFO  parse.ParserJob - ParserJob: resuming:	false
+2015-06-09 12:44:29,923 INFO  parse.ParserJob - ParserJob: forced reparse:	false
+2015-06-09 12:44:29,923 INFO  parse.ParserJob - ParserJob: parsing all
+2015-06-09 12:44:30,194 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:44:30,203 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:44:30,210 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:44:30,986 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
+2015-06-09 12:44:31,382 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:44:31,702 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
+2015-06-09 12:44:31,754 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/secondary-recurrent-pregnancy-loss
+2015-06-09 12:44:32,188 INFO  regex.RegexURLNormalizer - can't find rules for scope 'outlink', using default
+2015-06-09 12:44:32,297 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:44:32,608 INFO  parse.ParserJob - ParserJob: success
+2015-06-09 12:44:32,608 INFO  parse.ParserJob - ParserJob: finished at 2015-06-09 12:44:32, time elapsed: 00:00:02
+2015-06-09 12:44:33,107 INFO  crawl.DbUpdaterJob - DbUpdaterJob: starting at 2015-06-09 12:44:33
+2015-06-09 12:44:33,107 INFO  crawl.DbUpdaterJob - DbUpdaterJob: updatinging all
+2015-06-09 12:44:33,178 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:44:33,187 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:44:33,194 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:44:33,881 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:44:34,330 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-06-09 12:44:34,330 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-06-09 12:44:34,330 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-06-09 12:44:34,465 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:44:35,092 INFO  crawl.DbUpdaterJob - DbUpdaterJob: finished at 2015-06-09 12:44:35, time elapsed: 00:00:01
+2015-06-09 12:44:40,819 INFO  crawl.InjectorJob - InjectorJob: starting at 2015-06-09 12:44:40
+2015-06-09 12:44:40,819 INFO  crawl.InjectorJob - InjectorJob: Injecting urlDir: urls/ranurag
+2015-06-09 12:44:41,477 INFO  crawl.InjectorJob - InjectorJob: Using class org.apache.gora.mongodb.store.MongoStore as the Gora storage class.
+2015-06-09 12:44:41,499 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:44:41,544 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2015-06-09 12:44:41,847 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:44:41,853 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:44:41,859 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:44:41,894 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-06-09 12:44:41,949 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-06-09 12:44:41,954 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:44:42,728 INFO  crawl.InjectorJob - InjectorJob: total number of urls rejected by filters: 0
+2015-06-09 12:44:42,728 INFO  crawl.InjectorJob - InjectorJob: total number of urls injected after normalization and filtering: 2
+2015-06-09 12:44:42,729 INFO  crawl.InjectorJob - Injector: finished at 2015-06-09 12:44:42, elapsed: 00:00:01
+2015-06-09 12:44:43,242 INFO  crawl.GeneratorJob - GeneratorJob: starting at 2015-06-09 12:44:43
+2015-06-09 12:44:43,242 INFO  crawl.GeneratorJob - GeneratorJob: Selecting best-scoring urls due for fetch.
+2015-06-09 12:44:43,242 INFO  crawl.GeneratorJob - GeneratorJob: starting
+2015-06-09 12:44:43,242 INFO  crawl.GeneratorJob - GeneratorJob: filtering: true
+2015-06-09 12:44:43,242 INFO  crawl.GeneratorJob - GeneratorJob: normalizing: true
+2015-06-09 12:44:43,243 INFO  crawl.GeneratorJob - GeneratorJob: topN: 80
+2015-06-09 12:44:43,455 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-06-09 12:44:43,455 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-06-09 12:44:43,456 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-06-09 12:44:43,950 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:44:44,333 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:44:44,340 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:44:44,346 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:44:44,376 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-06-09 12:44:44,376 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-06-09 12:44:44,376 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-06-09 12:44:44,429 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
+2015-06-09 12:44:44,803 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:44:45,169 INFO  crawl.GeneratorJob - GeneratorJob: finished at 2015-06-09 12:44:45, time elapsed: 00:00:01
+2015-06-09 12:44:45,169 INFO  crawl.GeneratorJob - GeneratorJob: generated batch id: 1433834083-1254833893 containing 80 URLs
+2015-06-09 12:44:45,679 INFO  fetcher.FetcherJob - FetcherJob: starting at 2015-06-09 12:44:45
+2015-06-09 12:44:45,680 INFO  fetcher.FetcherJob - FetcherJob: fetching all
+2015-06-09 12:44:45,681 INFO  fetcher.FetcherJob - FetcherJob: threads: 10
+2015-06-09 12:44:45,681 INFO  fetcher.FetcherJob - FetcherJob: parsing: false
+2015-06-09 12:44:45,681 INFO  fetcher.FetcherJob - FetcherJob: resuming: false
+2015-06-09 12:44:45,681 INFO  fetcher.FetcherJob - FetcherJob : timelimit set for : -1
+2015-06-09 12:44:45,956 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:44:45,965 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:44:45,972 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:44:46,302 INFO  httpclient.Http - http.proxy.host = null
+2015-06-09 12:44:46,302 INFO  httpclient.Http - http.proxy.port = 8080
+2015-06-09 12:44:46,302 INFO  httpclient.Http - http.timeout = 10000
+2015-06-09 12:44:46,302 INFO  httpclient.Http - http.content.limit = 65536
+2015-06-09 12:44:46,302 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-06-09 12:44:46,302 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-06-09 12:44:46,302 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-06-09 12:44:46,306 INFO  httpclient.Http - http.proxy.host = null
+2015-06-09 12:44:46,306 INFO  httpclient.Http - http.proxy.port = 8080
+2015-06-09 12:44:46,306 INFO  httpclient.Http - http.timeout = 10000
+2015-06-09 12:44:46,307 INFO  httpclient.Http - http.content.limit = 65536
+2015-06-09 12:44:46,307 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-06-09 12:44:46,307 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-06-09 12:44:46,307 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-06-09 12:44:46,723 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:44:47,309 INFO  fetcher.FetcherJob - Using queue mode : byHost
+2015-06-09 12:44:47,309 INFO  fetcher.FetcherJob - Fetcher: threads: 10
+2015-06-09 12:44:47,322 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/international-patients (queue crawl delay=5000ms)
+2015-06-09 12:44:47,323 INFO  httpclient.Http - http.proxy.host = null
+2015-06-09 12:44:47,323 INFO  httpclient.Http - http.proxy.port = 8080
+2015-06-09 12:44:47,323 INFO  httpclient.Http - http.timeout = 10000
+2015-06-09 12:44:47,323 INFO  httpclient.Http - http.content.limit = 65536
+2015-06-09 12:44:47,323 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-06-09 12:44:47,323 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-06-09 12:44:47,323 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-06-09 12:44:47,328 INFO  fetcher.FetcherJob - fetching http://fonts.googleapis.com/css?family=Raleway:600 (queue crawl delay=5000ms)
+2015-06-09 12:44:47,337 INFO  fetcher.FetcherJob - QueueFeeder finished: total 80 records. Hit by time limit :0
+2015-06-09 12:44:47,338 INFO  fetcher.FetcherJob - Fetcher: throughput threshold: -1
+2015-06-09 12:44:47,339 INFO  fetcher.FetcherJob - Fetcher: throughput threshold sequence: 5
+2015-06-09 12:44:52,339 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 2 pages, 0 errors, 0.4 0 pages/s, 102 102 kb/s, 78 URLs in 2 queues
+2015-06-09 12:44:52,836 INFO  fetcher.FetcherJob - fetching http://fonts.googleapis.com/css?family=Ubuntu:400 (queue crawl delay=5000ms)
+2015-06-09 12:44:54,500 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-success-stories (queue crawl delay=5000ms)
+2015-06-09 12:44:57,339 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 4 pages, 0 errors, 0.4 0 pages/s, 102 102 kb/s, 76 URLs in 2 queues
+2015-06-09 12:44:58,072 INFO  fetcher.FetcherJob - fetching http://fonts.googleapis.com/css?family=Raleway:400 (queue crawl delay=5000ms)
+2015-06-09 12:45:01,133 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/central-illinois-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:45:02,340 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 5 pages, 0 errors, 0.3 0 pages/s, 68 0 kb/s, 74 URLs in 2 queues
+2015-06-09 12:45:03,268 INFO  fetcher.FetcherJob - fetching http://fonts.googleapis.com/css?family=Open+Sans:400 (queue crawl delay=5000ms)
+2015-06-09 12:45:07,340 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 7 pages, 0 errors, 0.4 0 pages/s, 77 102 kb/s, 73 URLs in 1 queues
+2015-06-09 12:45:08,140 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/in-vitro-fertilization-ivf (queue crawl delay=5000ms)
+2015-06-09 12:45:12,340 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 8 pages, 0 errors, 0.3 0 pages/s, 82 102 kb/s, 72 URLs in 1 queues
+2015-06-09 12:45:14,797 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-innovations (queue crawl delay=5000ms)
+2015-06-09 12:45:17,341 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 9 pages, 0 errors, 0.3 0 pages/s, 85 102 kb/s, 71 URLs in 1 queues
+2015-06-09 12:45:21,471 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/secondary-recurrent-pregnancy-loss/feed (queue crawl delay=5000ms)
+2015-06-09 12:45:21,472 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/ivig-intralipid-therapy-in-ivf-natural-killer-cell-activity-for-diagnosis-and-treatment (queue crawl delay=5000ms)
+2015-06-09 12:45:22,341 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 9 pages, 0 errors, 0.3 0 pages/s, 73 0 kb/s, 69 URLs in 1 queues
+2015-06-09 12:45:27,341 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 10 pages, 0 errors, 0.3 0 pages/s, 76 102 kb/s, 69 URLs in 1 queues
+2015-06-09 12:45:28,128 INFO  fetcher.FetcherJob - fetching http://haveababy.com/ivf-blogs-from-sirm-patients (queue crawl delay=5000ms)
+2015-06-09 12:45:32,342 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 11 pages, 0 errors, 0.2 0 pages/s, 79 102 kb/s, 68 URLs in 1 queues
+2015-06-09 12:45:35,082 INFO  fetcher.FetcherJob - fetching http://haveababy.com/about-sirm/ (queue crawl delay=5000ms)
+2015-06-09 12:45:36,076 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:45:36,084 INFO  regex.RegexURLNormalizer - can't find rules for scope 'fetcher', using default
+2015-06-09 12:45:37,342 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 12 pages, 0 errors, 0.2 0 pages/s, 71 0 kb/s, 67 URLs in 1 queues
+2015-06-09 12:45:41,180 INFO  fetcher.FetcherJob - fetching http://haveababy.com/dallas-physician/dr-walid-saleh-fertility-doctor-in-dallas-tx/ (queue crawl delay=5000ms)
+2015-06-09 12:45:42,222 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:45:42,342 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 13 pages, 0 errors, 0.2 0 pages/s, 65 0 kb/s, 66 URLs in 1 queues
+2015-06-09 12:45:47,228 INFO  fetcher.FetcherJob - fetching http://haveababy.com/online-bill-pay (queue crawl delay=5000ms)
+2015-06-09 12:45:47,343 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 13 pages, 0 errors, 0.2 0 pages/s, 59 0 kb/s, 65 URLs in 1 queues
+2015-06-09 12:45:52,343 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 14 pages, 0 errors, 0.2 0 pages/s, 63 102 kb/s, 65 URLs in 1 queues
+2015-06-09 12:45:53,554 INFO  fetcher.FetcherJob - fetching http://haveababy.com/comments/feed (queue crawl delay=5000ms)
+2015-06-09 12:45:53,556 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/thrombophilia-mthfr-and-miscarriage (queue crawl delay=5000ms)
+2015-06-09 12:45:57,343 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 15 pages, 0 errors, 0.2 0 pages/s, 65 102 kb/s, 63 URLs in 1 queues
+2015-06-09 12:46:00,223 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/las-vegas-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:46:02,344 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 16 pages, 0 errors, 0.2 0 pages/s, 68 102 kb/s, 62 URLs in 1 queues
+2015-06-09 12:46:06,861 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/fertility-tests-for-women (queue crawl delay=5000ms)
+2015-06-09 12:46:07,344 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 16 pages, 0 errors, 0.2 0 pages/s, 64 0 kb/s, 61 URLs in 1 queues
+2015-06-09 12:46:12,344 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 17 pages, 0 errors, 0.2 0 pages/s, 66 102 kb/s, 61 URLs in 1 queues
+2015-06-09 12:46:13,541 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/embryo-quality-planting-good-seed (queue crawl delay=5000ms)
+2015-06-09 12:46:17,345 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 18 pages, 0 errors, 0.2 0 pages/s, 68 102 kb/s, 60 URLs in 1 queues
+2015-06-09 12:46:20,401 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ (queue crawl delay=5000ms)
+2015-06-09 12:46:21,423 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:46:22,345 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 19 pages, 0 errors, 0.2 0 pages/s, 64 0 kb/s, 59 URLs in 1 queues
+2015-06-09 12:46:26,429 INFO  fetcher.FetcherJob - fetching http://haveababy.com/in-the-news/ (queue crawl delay=5000ms)
+2015-06-09 12:46:27,345 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 19 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 58 URLs in 1 queues
+2015-06-09 12:46:27,721 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:46:32,346 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 20 pages, 0 errors, 0.2 0 pages/s, 58 0 kb/s, 58 URLs in 1 queues
+2015-06-09 12:46:32,727 INFO  fetcher.FetcherJob - fetching http://haveababy.com/new-york-physician/dr-drew-tortoriello-reproductive-specialist-of-new-york/ (queue crawl delay=5000ms)
+2015-06-09 12:46:33,735 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:46:37,346 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 21 pages, 0 errors, 0.2 0 pages/s, 55 0 kb/s, 57 URLs in 1 queues
+2015-06-09 12:46:38,742 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/in-vitro-fertilization-ivf/ivf-injections/injection-instructions-introduction/ (queue crawl delay=5000ms)
+2015-06-09 12:46:39,761 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:46:42,346 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 22 pages, 0 errors, 0.2 0 pages/s, 53 0 kb/s, 56 URLs in 1 queues
+2015-06-09 12:46:44,768 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/st-louis-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:46:47,347 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 23 pages, 0 errors, 0.2 0 pages/s, 55 102 kb/s, 55 URLs in 1 queues
+2015-06-09 12:46:51,441 INFO  fetcher.FetcherJob - fetching http://haveababy.com/about-sirm/media-resources (queue crawl delay=5000ms)
+2015-06-09 12:46:52,347 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 23 pages, 0 errors, 0.2 0 pages/s, 53 0 kb/s, 54 URLs in 1 queues
+2015-06-09 12:46:57,347 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 24 pages, 0 errors, 0.2 0 pages/s, 55 102 kb/s, 54 URLs in 1 queues
+2015-06-09 12:46:58,060 INFO  fetcher.FetcherJob - fetching http://haveababy.com/contact-us (queue crawl delay=5000ms)
+2015-06-09 12:47:02,348 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 25 pages, 0 errors, 0.2 0 pages/s, 56 102 kb/s, 53 URLs in 1 queues
+2015-06-09 12:47:04,704 INFO  fetcher.FetcherJob - fetching http://haveababy.com/about-sirm/work-for-sirm (queue crawl delay=5000ms)
+2015-06-09 12:47:07,348 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 26 pages, 0 errors, 0.2 0 pages/s, 58 102 kb/s, 52 URLs in 1 queues
+2015-06-09 12:47:11,345 INFO  fetcher.FetcherJob - fetching http://haveababy.com/feed (queue crawl delay=5000ms)
+2015-06-09 12:47:11,347 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/fertility-tests-for-men (queue crawl delay=5000ms)
+2015-06-09 12:47:12,348 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 26 pages, 0 errors, 0.2 0 pages/s, 56 0 kb/s, 50 URLs in 1 queues
+2015-06-09 12:47:17,349 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 27 pages, 0 errors, 0.2 0 pages/s, 58 102 kb/s, 50 URLs in 1 queues
+2015-06-09 12:47:18,004 INFO  fetcher.FetcherJob - fetching http://haveababy.com/las-vegas-physician/mark-f-severino-md (queue crawl delay=5000ms)
+2015-06-09 12:47:22,349 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 28 pages, 0 errors, 0.2 0 pages/s, 59 102 kb/s, 49 URLs in 1 queues
+2015-06-09 12:47:24,654 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-faqs/assisted-reproductive-technology-glossary (queue crawl delay=5000ms)
+2015-06-09 12:47:27,349 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 29 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 48 URLs in 1 queues
+2015-06-09 12:47:31,393 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/ (queue crawl delay=5000ms)
+2015-06-09 12:47:32,350 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 29 pages, 0 errors, 0.2 0 pages/s, 59 0 kb/s, 47 URLs in 1 queues
+2015-06-09 12:47:32,388 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:47:37,350 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 30 pages, 0 errors, 0.2 0 pages/s, 57 0 kb/s, 47 URLs in 1 queues
+2015-06-09 12:47:37,394 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/egg-donation (queue crawl delay=5000ms)
+2015-06-09 12:47:42,351 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 31 pages, 0 errors, 0.2 0 pages/s, 58 102 kb/s, 46 URLs in 1 queues
+2015-06-09 12:47:44,010 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/reproductive-surgery (queue crawl delay=5000ms)
+2015-06-09 12:47:47,351 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 32 pages, 0 errors, 0.2 0 pages/s, 59 102 kb/s, 45 URLs in 1 queues
+2015-06-09 12:47:50,661 INFO  fetcher.FetcherJob - fetching http://haveababy.com/about-sirm/the-sher-giving-back-initiative (queue crawl delay=5000ms)
+2015-06-09 12:47:52,351 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 33 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 44 URLs in 1 queues
+2015-06-09 12:47:57,299 INFO  fetcher.FetcherJob - fetching http://haveababy.com/about-sirm/the-sirm-giving-back-initiative (queue crawl delay=5000ms)
+2015-06-09 12:47:57,352 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 33 pages, 0 errors, 0.2 0 pages/s, 59 0 kb/s, 43 URLs in 1 queues
+2015-06-09 12:48:02,352 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 34 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 43 URLs in 1 queues
+2015-06-09 12:48:03,928 INFO  fetcher.FetcherJob - fetching http://haveababy.com/ (queue crawl delay=5000ms)
+2015-06-09 12:48:07,352 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 35 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 42 URLs in 1 queues
+2015-06-09 12:48:10,320 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/fertility-preservation/egg-freezing (queue crawl delay=5000ms)
+2015-06-09 12:48:12,353 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 36 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 41 URLs in 1 queues
+2015-06-09 12:48:16,932 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/lehigh-valley-pa-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:48:17,353 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 36 pages, 0 errors, 0.2 0 pages/s, 60 0 kb/s, 40 URLs in 1 queues
+2015-06-09 12:48:22,353 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 37 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 40 URLs in 1 queues
+2015-06-09 12:48:23,572 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/intrauterine-insemination-iui (queue crawl delay=5000ms)
+2015-06-09 12:48:27,354 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 38 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 39 URLs in 1 queues
+2015-06-09 12:48:30,203 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/new-jersey-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:48:32,354 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 38 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 38 URLs in 1 queues
+2015-06-09 12:48:37,354 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 39 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 38 URLs in 1 queues
+2015-06-09 12:48:38,379 INFO  fetcher.FetcherJob - fetching http://haveababy.com/st-louis-physician/dr-barry-witten-fertility-physician-in-st-louis/ (queue crawl delay=5000ms)
+2015-06-09 12:48:39,374 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:48:42,355 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 40 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 37 URLs in 1 queues
+2015-06-09 12:48:44,380 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/ask-dr-sher-open-forum (queue crawl delay=5000ms)
+2015-06-09 12:48:47,355 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 41 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 36 URLs in 1 queues
+2015-06-09 12:48:51,993 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/connecticut-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:48:52,355 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 41 pages, 0 errors, 0.2 0 pages/s, 60 0 kb/s, 35 URLs in 1 queues
+2015-06-09 12:48:57,356 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 42 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 35 URLs in 1 queues
+2015-06-09 12:48:58,637 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/new-york-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:49:02,356 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 43 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 34 URLs in 1 queues
+2015-06-09 12:49:05,304 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/ (queue crawl delay=5000ms)
+2015-06-09 12:49:06,287 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:49:07,356 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 44 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 33 URLs in 1 queues
+2015-06-09 12:49:11,292 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/secondary-recurrent-pregnancy-loss (queue crawl delay=5000ms)
+2015-06-09 12:49:12,357 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 44 pages, 0 errors, 0.2 0 pages/s, 59 0 kb/s, 32 URLs in 1 queues
+2015-06-09 12:49:17,357 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 45 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 32 URLs in 1 queues
+2015-06-09 12:49:17,941 INFO  fetcher.FetcherJob - fetching http://haveababy.com/new-jersey-physician/dr-albert-peters-fertility-doctor-nj-and-lehigh-valley/ (queue crawl delay=5000ms)
+2015-06-09 12:49:19,225 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:49:22,357 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 46 pages, 0 errors, 0.2 0 pages/s, 59 0 kb/s, 31 URLs in 1 queues
+2015-06-09 12:49:24,231 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/westchester-ny-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:49:27,358 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 47 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 30 URLs in 1 queues
+2015-06-09 12:49:31,151 INFO  fetcher.FetcherJob - fetching http://haveababy.com/new-york-physician/cary-l-dicken-md (queue crawl delay=5000ms)
+2015-06-09 12:49:32,358 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 47 pages, 0 errors, 0.2 0 pages/s, 59 0 kb/s, 29 URLs in 1 queues
+2015-06-09 12:49:37,358 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 48 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 29 URLs in 1 queues
+2015-06-09 12:49:37,838 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-faqs (queue crawl delay=5000ms)
+2015-06-09 12:49:42,359 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 49 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 28 URLs in 1 queues
+2015-06-09 12:49:44,492 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/fibroid-tumors-fertility (queue crawl delay=5000ms)
+2015-06-09 12:49:47,359 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 50 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 27 URLs in 1 queues
+2015-06-09 12:49:51,166 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/alloimmune-implantation-dysfunction-secondary-infertility (queue crawl delay=5000ms)
+2015-06-09 12:49:52,359 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 50 pages, 0 errors, 0.2 0 pages/s, 60 0 kb/s, 26 URLs in 1 queues
+2015-06-09 12:49:57,360 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 51 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 26 URLs in 1 queues
+2015-06-09 12:49:57,836 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/fertility-drugs (queue crawl delay=5000ms)
+2015-06-09 12:50:02,360 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 52 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 25 URLs in 1 queues
+2015-06-09 12:50:04,511 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/in-vitro-fertilization-ivf-3/making-in-vitro-fertilization-cost-affordable (queue crawl delay=5000ms)
+2015-06-09 12:50:07,360 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 53 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 24 URLs in 1 queues
+2015-06-09 12:50:11,172 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/preimplantation-genetic-diagnosis-pgd (queue crawl delay=5000ms)
+2015-06-09 12:50:12,361 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 53 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 23 URLs in 1 queues
+2015-06-09 12:50:17,361 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 54 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 23 URLs in 1 queues
+2015-06-09 12:50:17,834 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-information/types-of-autoimmune-implantation-dysfunction (queue crawl delay=5000ms)
+2015-06-09 12:50:18,855 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:50:22,361 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 55 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 22 URLs in 1 queues
+2015-06-09 12:50:23,860 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-doctors (queue crawl delay=5000ms)
+2015-06-09 12:50:27,362 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 56 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 21 URLs in 1 queues
+2015-06-09 12:50:30,647 INFO  fetcher.FetcherJob - fetching http://haveababy.com/las-vegas-physician/dr-geoffrey-sher-las-vegas-fertility-specialists/ (queue crawl delay=5000ms)
+2015-06-09 12:50:31,666 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:50:32,362 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 57 pages, 0 errors, 0.2 0 pages/s, 60 0 kb/s, 20 URLs in 1 queues
+2015-06-09 12:50:36,671 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/in-vitro-veritas/could-lining-of-uterus-endometrium-be-your-problem (queue crawl delay=5000ms)
+2015-06-09 12:50:37,363 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 57 pages, 0 errors, 0.2 0 pages/s, 59 0 kb/s, 19 URLs in 1 queues
+2015-06-09 12:50:42,363 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 58 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 19 URLs in 1 queues
+2015-06-09 12:50:43,323 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/case-report-failed-ivf-due-damaged-endometrium (queue crawl delay=5000ms)
+2015-06-09 12:50:47,363 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 59 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 18 URLs in 1 queues
+2015-06-09 12:50:49,974 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/unexplained-infertility-and-ivf-failure (queue crawl delay=5000ms)
+2015-06-09 12:50:52,364 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 60 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 17 URLs in 1 queues
+2015-06-09 12:50:56,613 INFO  fetcher.FetcherJob - fetching http://haveababy.com/about-sirm/sirm-privacy-practices (queue crawl delay=5000ms)
+2015-06-09 12:50:57,364 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 60 pages, 0 errors, 0.2 0 pages/s, 60 0 kb/s, 16 URLs in 1 queues
+2015-06-09 12:51:02,364 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 61 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 16 URLs in 1 queues
+2015-06-09 12:51:03,271 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-physicians/althea-oshaughnessy-md (queue crawl delay=5000ms)
+2015-06-09 12:51:07,365 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 62 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 15 URLs in 1 queues
+2015-06-09 12:51:09,960 INFO  fetcher.FetcherJob - fetching http://haveababy.com/causes-of-infertility (queue crawl delay=5000ms)
+2015-06-09 12:51:12,365 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 63 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 14 URLs in 1 queues
+2015-06-09 12:51:16,616 INFO  fetcher.FetcherJob - fetching http://haveababy.com/central-illinois-physician/dr-adelina-emmi-central-illinois-fertility-doctor/ (queue crawl delay=5000ms)
+2015-06-09 12:51:17,365 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 63 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 13 URLs in 1 queues
+2015-06-09 12:51:17,610 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:51:22,366 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 64 pages, 0 errors, 0.2 0 pages/s, 60 0 kb/s, 13 URLs in 1 queues
+2015-06-09 12:51:22,615 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-treatments/gestational-surrogacy (queue crawl delay=5000ms)
+2015-06-09 12:51:27,366 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 65 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 12 URLs in 1 queues
+2015-06-09 12:51:29,227 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-faqs/do-i-need-treatment (queue crawl delay=5000ms)
+2015-06-09 12:51:32,366 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 66 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 11 URLs in 1 queues
+2015-06-09 12:51:35,865 INFO  fetcher.FetcherJob - fetching http://haveababy.com/new-york-physician/jeffrey-wang-md/ (queue crawl delay=5000ms)
+2015-06-09 12:51:37,205 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:51:37,367 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 67 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 10 URLs in 1 queues
+2015-06-09 12:51:42,209 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-and-infertility-blogs (queue crawl delay=5000ms)
+2015-06-09 12:51:42,367 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 67 pages, 0 errors, 0.2 0 pages/s, 60 0 kb/s, 9 URLs in 1 queues
+2015-06-09 12:51:47,367 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 68 pages, 0 errors, 0.2 0 pages/s, 60 102 kb/s, 9 URLs in 1 queues
+2015-06-09 12:51:48,582 INFO  fetcher.FetcherJob - fetching http://haveababy.com/connect-sher (queue crawl delay=5000ms)
+2015-06-09 12:51:52,368 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 69 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 8 URLs in 1 queues
+2015-06-09 12:51:55,211 INFO  fetcher.FetcherJob - fetching http://haveababy.com/infertility-blogs (queue crawl delay=5000ms)
+2015-06-09 12:51:57,368 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 70 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 7 URLs in 1 queues
+2015-06-09 12:52:01,602 INFO  fetcher.FetcherJob - fetching http://haveababy.com/seminars (queue crawl delay=5000ms)
+2015-06-09 12:52:02,368 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 70 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 6 URLs in 1 queues
+2015-06-09 12:52:07,369 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 71 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 6 URLs in 1 queues
+2015-06-09 12:52:07,995 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-information/ivf-authority/case-study-recurrent-pregnancy-loss-due-complete-dq-alpha-match (queue crawl delay=5000ms)
+2015-06-09 12:52:12,369 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 72 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 5 URLs in 1 queues
+2015-06-09 12:52:15,669 INFO  fetcher.FetcherJob - fetching http://haveababy.com/our-trusted-partners (queue crawl delay=5000ms)
+2015-06-09 12:52:17,369 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 73 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 4 URLs in 1 queues
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob - * queue: http://haveababy.com
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   inProgress    = 0
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   nextFetchTime = 1433834542280
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   now           = 1433834537370
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   0. http://haveababy.com/fertility-physicians/ilana-ressler-md-connecticut-fertility-specialist
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   1. http://haveababy.com/new-york-physician/dr-hyacinth-nicole-browne-reproductive-specialists-of-new-york/
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   2. http://haveababy.com/fertility-clinics
+2015-06-09 12:52:17,370 INFO  fetcher.FetcherJob -   3. http://haveababy.com/fertility-clinics/dallas-fertility-clinic
+2015-06-09 12:52:22,283 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-physicians/ilana-ressler-md-connecticut-fertility-specialist (queue crawl delay=5000ms)
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 73 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 3 URLs in 1 queues
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob - * queue: http://haveababy.com
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   inProgress    = 1
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   nextFetchTime = 1433834542280
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   now           = 1433834542371
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   0. http://haveababy.com/new-york-physician/dr-hyacinth-nicole-browne-reproductive-specialists-of-new-york/
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   1. http://haveababy.com/fertility-clinics
+2015-06-09 12:52:22,371 INFO  fetcher.FetcherJob -   2. http://haveababy.com/fertility-clinics/dallas-fertility-clinic
+2015-06-09 12:52:27,372 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 74 pages, 0 errors, 0.2 0 pages/s, 62 102 kb/s, 3 URLs in 1 queues
+2015-06-09 12:52:27,372 INFO  fetcher.FetcherJob - * queue: http://haveababy.com
+2015-06-09 12:52:27,376 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-06-09 12:52:27,376 INFO  fetcher.FetcherJob -   inProgress    = 0
+2015-06-09 12:52:27,376 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-06-09 12:52:27,376 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-06-09 12:52:27,377 INFO  fetcher.FetcherJob -   nextFetchTime = 1433834548908
+2015-06-09 12:52:27,377 INFO  fetcher.FetcherJob -   now           = 1433834547377
+2015-06-09 12:52:27,377 INFO  fetcher.FetcherJob -   0. http://haveababy.com/new-york-physician/dr-hyacinth-nicole-browne-reproductive-specialists-of-new-york/
+2015-06-09 12:52:27,377 INFO  fetcher.FetcherJob -   1. http://haveababy.com/fertility-clinics
+2015-06-09 12:52:27,377 INFO  fetcher.FetcherJob -   2. http://haveababy.com/fertility-clinics/dallas-fertility-clinic
+2015-06-09 12:52:28,911 INFO  fetcher.FetcherJob - fetching http://haveababy.com/new-york-physician/dr-hyacinth-nicole-browne-reproductive-specialists-of-new-york/ (queue crawl delay=5000ms)
+2015-06-09 12:52:32,377 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 74 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 2 URLs in 1 queues
+2015-06-09 12:52:32,377 INFO  fetcher.FetcherJob - * queue: http://haveababy.com
+2015-06-09 12:52:32,377 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-06-09 12:52:32,377 INFO  fetcher.FetcherJob -   inProgress    = 1
+2015-06-09 12:52:32,377 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-06-09 12:52:32,377 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-06-09 12:52:32,378 INFO  fetcher.FetcherJob -   nextFetchTime = 1433834548908
+2015-06-09 12:52:32,378 INFO  fetcher.FetcherJob -   now           = 1433834552378
+2015-06-09 12:52:32,378 INFO  fetcher.FetcherJob -   0. http://haveababy.com/fertility-clinics
+2015-06-09 12:52:32,378 INFO  fetcher.FetcherJob -   1. http://haveababy.com/fertility-clinics/dallas-fertility-clinic
+2015-06-09 12:52:32,452 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-06-09 12:52:37,378 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 75 pages, 0 errors, 0.2 0 pages/s, 61 0 kb/s, 2 URLs in 1 queues
+2015-06-09 12:52:37,378 INFO  fetcher.FetcherJob - * queue: http://haveababy.com
+2015-06-09 12:52:37,378 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-06-09 12:52:37,378 INFO  fetcher.FetcherJob -   inProgress    = 0
+2015-06-09 12:52:37,378 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-06-09 12:52:37,378 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-06-09 12:52:37,378 INFO  fetcher.FetcherJob -   nextFetchTime = 1433834557453
+2015-06-09 12:52:37,379 INFO  fetcher.FetcherJob -   now           = 1433834557379
+2015-06-09 12:52:37,379 INFO  fetcher.FetcherJob -   0. http://haveababy.com/fertility-clinics
+2015-06-09 12:52:37,379 INFO  fetcher.FetcherJob -   1. http://haveababy.com/fertility-clinics/dallas-fertility-clinic
+2015-06-09 12:52:37,457 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics (queue crawl delay=5000ms)
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 76 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 1 URLs in 1 queues
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob - * queue: http://haveababy.com
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob -   inProgress    = 0
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob -   nextFetchTime = 1433834565096
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob -   now           = 1433834562379
+2015-06-09 12:52:42,379 INFO  fetcher.FetcherJob -   0. http://haveababy.com/fertility-clinics/dallas-fertility-clinic
+2015-06-09 12:52:45,098 INFO  fetcher.FetcherJob - fetching http://haveababy.com/fertility-clinics/dallas-fertility-clinic (queue crawl delay=5000ms)
+2015-06-09 12:52:45,438 INFO  fetcher.FetcherJob - -finishing thread FetcherThread3, activeThreads=5
+2015-06-09 12:52:45,438 INFO  fetcher.FetcherJob - -finishing thread FetcherThread1, activeThreads=5
+2015-06-09 12:52:45,438 INFO  fetcher.FetcherJob - -finishing thread FetcherThread5, activeThreads=3
+2015-06-09 12:52:45,438 INFO  fetcher.FetcherJob - -finishing thread FetcherThread7, activeThreads=5
+2015-06-09 12:52:45,438 INFO  fetcher.FetcherJob - -finishing thread FetcherThread9, activeThreads=5
+2015-06-09 12:52:45,438 INFO  fetcher.FetcherJob - -finishing thread FetcherThread8, activeThreads=2
+2015-06-09 12:52:45,438 INFO  fetcher.FetcherJob - -finishing thread FetcherThread2, activeThreads=4
+2015-06-09 12:52:45,438 INFO  fetcher.FetcherJob - -finishing thread FetcherThread6, activeThreads=5
+2015-06-09 12:52:45,572 INFO  fetcher.FetcherJob - -finishing thread FetcherThread4, activeThreads=1
+2015-06-09 12:52:46,728 INFO  fetcher.FetcherJob - -finishing thread FetcherThread0, activeThreads=0
+2015-06-09 12:52:47,379 INFO  fetcher.FetcherJob - 0/0 spinwaiting/active, 77 pages, 0 errors, 0.2 0 pages/s, 61 102 kb/s, 0 URLs in 0 queues
+2015-06-09 12:52:47,380 INFO  fetcher.FetcherJob - -activeThreads=0
+2015-06-09 12:52:47,383 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:52:48,106 INFO  fetcher.FetcherJob - FetcherJob: finished at 2015-06-09 12:52:48, time elapsed: 00:08:02
+2015-06-09 12:52:48,643 INFO  parse.ParserJob - ParserJob: starting at 2015-06-09 12:52:48
+2015-06-09 12:52:48,645 INFO  parse.ParserJob - ParserJob: resuming:	false
+2015-06-09 12:52:48,645 INFO  parse.ParserJob - ParserJob: forced reparse:	false
+2015-06-09 12:52:48,645 INFO  parse.ParserJob - ParserJob: parsing all
+2015-06-09 12:52:48,919 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:52:48,927 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:52:48,934 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:52:49,344 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
+2015-06-09 12:52:49,782 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:52:50,105 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
+2015-06-09 12:52:50,217 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/secondary-recurrent-pregnancy-loss
+2015-06-09 12:52:50,628 INFO  regex.RegexURLNormalizer - can't find rules for scope 'outlink', using default
+2015-06-09 12:52:50,740 INFO  parse.ParserJob - Parsing http://fonts.googleapis.com/css?family=Raleway:600
+2015-06-09 12:52:50,741 INFO  parse.ParserFactory - The parsing plugins: [org.apache.nutch.parse.tika.TikaParser] are enabled via the plugin.includes system property, and all claim to support the content type text/css, but they are not mapped to it  in the parse-plugins.xml file
+2015-06-09 12:52:50,741 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-06-09 12:52:50,741 WARN  parse.ParseUtil - Unable to successfully parse content http://fonts.googleapis.com/css?family=Raleway:600 of type text/css
+2015-06-09 12:52:50,744 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/international-patients
+2015-06-09 12:52:50,837 INFO  parse.ParserJob - Parsing http://fonts.googleapis.com/css?family=Ubuntu:400
+2015-06-09 12:52:50,838 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-06-09 12:52:50,838 WARN  parse.ParseUtil - Unable to successfully parse content http://fonts.googleapis.com/css?family=Ubuntu:400 of type text/css
+2015-06-09 12:52:50,840 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-success-stories
+2015-06-09 12:52:50,935 INFO  parse.ParserJob - Parsing http://fonts.googleapis.com/css?family=Raleway:400
+2015-06-09 12:52:50,936 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-06-09 12:52:50,936 WARN  parse.ParseUtil - Unable to successfully parse content http://fonts.googleapis.com/css?family=Raleway:400 of type text/css
+2015-06-09 12:52:50,939 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/central-illinois-fertility-clinic
+2015-06-09 12:52:51,012 INFO  parse.ParserJob - Parsing http://fonts.googleapis.com/css?family=Open+Sans:400
+2015-06-09 12:52:51,012 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-06-09 12:52:51,013 WARN  parse.ParseUtil - Unable to successfully parse content http://fonts.googleapis.com/css?family=Open+Sans:400 of type text/css
+2015-06-09 12:52:51,015 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/in-vitro-fertilization-ivf
+2015-06-09 12:52:51,074 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-innovations
+2015-06-09 12:52:51,131 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/secondary-recurrent-pregnancy-loss/feed
+2015-06-09 12:52:51,132 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/ivig-intralipid-therapy-in-ivf-natural-killer-cell-activity-for-diagnosis-and-treatment
+2015-06-09 12:52:51,202 INFO  parse.ParserJob - Parsing http://haveababy.com/ivf-blogs-from-sirm-patients
+2015-06-09 12:52:51,260 INFO  parse.ParserJob - Parsing http://haveababy.com/about-sirm/
+2015-06-09 12:52:51,260 WARN  parse.ParserJob - http://haveababy.com/about-sirm/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,262 INFO  parse.ParserJob - Parsing http://haveababy.com/dallas-physician/dr-walid-saleh-fertility-doctor-in-dallas-tx/
+2015-06-09 12:52:51,262 WARN  parse.ParserJob - http://haveababy.com/dallas-physician/dr-walid-saleh-fertility-doctor-in-dallas-tx/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,264 INFO  parse.ParserJob - Parsing http://haveababy.com/online-bill-pay
+2015-06-09 12:52:51,320 INFO  parse.ParserJob - Parsing http://haveababy.com/comments/feed
+2015-06-09 12:52:51,322 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/thrombophilia-mthfr-and-miscarriage
+2015-06-09 12:52:51,368 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/las-vegas-fertility-clinic
+2015-06-09 12:52:51,414 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/fertility-tests-for-women
+2015-06-09 12:52:51,463 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/embryo-quality-planting-good-seed
+2015-06-09 12:52:51,500 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/
+2015-06-09 12:52:51,500 WARN  parse.ParserJob - http://haveababy.com/fertility-information/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,501 INFO  parse.ParserJob - Parsing http://haveababy.com/in-the-news/
+2015-06-09 12:52:51,502 WARN  parse.ParserJob - http://haveababy.com/in-the-news/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,503 INFO  parse.ParserJob - Parsing http://haveababy.com/new-york-physician/dr-drew-tortoriello-reproductive-specialist-of-new-york/
+2015-06-09 12:52:51,503 WARN  parse.ParserJob - http://haveababy.com/new-york-physician/dr-drew-tortoriello-reproductive-specialist-of-new-york/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,505 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/in-vitro-fertilization-ivf/ivf-injections/injection-instructions-introduction/
+2015-06-09 12:52:51,505 WARN  parse.ParserJob - http://haveababy.com/infertility-treatments/in-vitro-fertilization-ivf/ivf-injections/injection-instructions-introduction/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,506 INFO  parse.ParserJob - Parsing http://haveababy.com/feed
+2015-06-09 12:52:51,507 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/
+2015-06-09 12:52:51,507 WARN  parse.ParserJob - http://haveababy.com/fertility-information/ivf-authority/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,509 INFO  parse.ParserJob - Parsing http://haveababy.com/st-louis-physician/dr-barry-witten-fertility-physician-in-st-louis/
+2015-06-09 12:52:51,509 WARN  parse.ParserJob - http://haveababy.com/st-louis-physician/dr-barry-witten-fertility-physician-in-st-louis/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,510 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/
+2015-06-09 12:52:51,510 WARN  parse.ParserJob - http://haveababy.com/infertility-treatments/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,512 INFO  parse.ParserJob - Parsing http://haveababy.com/new-jersey-physician/dr-albert-peters-fertility-doctor-nj-and-lehigh-valley/
+2015-06-09 12:52:51,512 WARN  parse.ParserJob - http://haveababy.com/new-jersey-physician/dr-albert-peters-fertility-doctor-nj-and-lehigh-valley/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,513 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-information/types-of-autoimmune-implantation-dysfunction
+2015-06-09 12:52:51,513 WARN  parse.ParserJob - http://haveababy.com/infertility-information/types-of-autoimmune-implantation-dysfunction skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,514 INFO  parse.ParserJob - Parsing http://haveababy.com/las-vegas-physician/dr-geoffrey-sher-las-vegas-fertility-specialists/
+2015-06-09 12:52:51,515 WARN  parse.ParserJob - http://haveababy.com/las-vegas-physician/dr-geoffrey-sher-las-vegas-fertility-specialists/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,516 INFO  parse.ParserJob - Parsing http://haveababy.com/central-illinois-physician/dr-adelina-emmi-central-illinois-fertility-doctor/
+2015-06-09 12:52:51,516 WARN  parse.ParserJob - http://haveababy.com/central-illinois-physician/dr-adelina-emmi-central-illinois-fertility-doctor/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,517 INFO  parse.ParserJob - Parsing http://haveababy.com/new-york-physician/jeffrey-wang-md/
+2015-06-09 12:52:51,517 WARN  parse.ParserJob - http://haveababy.com/new-york-physician/jeffrey-wang-md/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,518 INFO  parse.ParserJob - Parsing http://haveababy.com/new-york-physician/dr-hyacinth-nicole-browne-reproductive-specialists-of-new-york/
+2015-06-09 12:52:51,518 WARN  parse.ParserJob - http://haveababy.com/new-york-physician/dr-hyacinth-nicole-browne-reproductive-specialists-of-new-york/ skipped. Content of size 20 was truncated to 0
+2015-06-09 12:52:51,520 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/st-louis-fertility-clinic
+2015-06-09 12:52:51,550 INFO  parse.ParserJob - Parsing http://haveababy.com/about-sirm/media-resources
+2015-06-09 12:52:51,577 INFO  parse.ParserJob - Parsing http://haveababy.com/contact-us
+2015-06-09 12:52:51,617 INFO  parse.ParserJob - Parsing http://haveababy.com/about-sirm/work-for-sirm
+2015-06-09 12:52:51,646 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/fertility-tests-for-men
+2015-06-09 12:52:51,668 INFO  parse.ParserJob - Parsing http://haveababy.com/las-vegas-physician/mark-f-severino-md
+2015-06-09 12:52:51,697 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-faqs/assisted-reproductive-technology-glossary
+2015-06-09 12:52:51,723 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/egg-donation
+2015-06-09 12:52:51,747 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/reproductive-surgery
+2015-06-09 12:52:51,768 INFO  parse.ParserJob - Parsing http://haveababy.com/about-sirm/the-sher-giving-back-initiative
+2015-06-09 12:52:51,789 INFO  parse.ParserJob - Parsing http://haveababy.com/about-sirm/the-sirm-giving-back-initiative
+2015-06-09 12:52:51,814 INFO  parse.ParserJob - Parsing http://haveababy.com/
+2015-06-09 12:52:51,837 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/fertility-preservation/egg-freezing
+2015-06-09 12:52:51,859 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/lehigh-valley-pa-fertility-clinic
+2015-06-09 12:52:51,884 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/intrauterine-insemination-iui
+2015-06-09 12:52:51,903 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/new-jersey-fertility-clinic
+2015-06-09 12:52:51,923 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/ask-dr-sher-open-forum
+2015-06-09 12:52:51,943 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/connecticut-fertility-clinic
+2015-06-09 12:52:51,974 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/new-york-fertility-clinic
+2015-06-09 12:52:51,997 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/westchester-ny-fertility-clinic
+2015-06-09 12:52:52,030 INFO  parse.ParserJob - Parsing http://haveababy.com/new-york-physician/cary-l-dicken-md
+2015-06-09 12:52:52,053 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-faqs
+2015-06-09 12:52:52,075 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/fibroid-tumors-fertility
+2015-06-09 12:52:52,097 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/alloimmune-implantation-dysfunction-secondary-infertility
+2015-06-09 12:52:52,117 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/fertility-drugs
+2015-06-09 12:52:52,142 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/in-vitro-fertilization-ivf-3/making-in-vitro-fertilization-cost-affordable
+2015-06-09 12:52:52,170 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/preimplantation-genetic-diagnosis-pgd
+2015-06-09 12:52:52,194 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-doctors
+2015-06-09 12:52:52,212 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/in-vitro-veritas/could-lining-of-uterus-endometrium-be-your-problem
+2015-06-09 12:52:52,235 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/case-report-failed-ivf-due-damaged-endometrium
+2015-06-09 12:52:52,262 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/unexplained-infertility-and-ivf-failure
+2015-06-09 12:52:52,290 INFO  parse.ParserJob - Parsing http://haveababy.com/about-sirm/sirm-privacy-practices
+2015-06-09 12:52:52,313 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-physicians/althea-oshaughnessy-md
+2015-06-09 12:52:52,336 INFO  parse.ParserJob - Parsing http://haveababy.com/causes-of-infertility
+2015-06-09 12:52:52,360 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-treatments/gestational-surrogacy
+2015-06-09 12:52:52,382 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-faqs/do-i-need-treatment
+2015-06-09 12:52:52,399 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-and-infertility-blogs
+2015-06-09 12:52:52,417 INFO  parse.ParserJob - Parsing http://haveababy.com/connect-sher
+2015-06-09 12:52:52,430 INFO  parse.ParserJob - Parsing http://haveababy.com/infertility-blogs
+2015-06-09 12:52:52,445 INFO  parse.ParserJob - Parsing http://haveababy.com/seminars
+2015-06-09 12:52:52,467 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-information/ivf-authority/case-study-recurrent-pregnancy-loss-due-complete-dq-alpha-match
+2015-06-09 12:52:52,484 INFO  parse.ParserJob - Parsing http://haveababy.com/our-trusted-partners
+2015-06-09 12:52:52,501 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-physicians/ilana-ressler-md-connecticut-fertility-specialist
+2015-06-09 12:52:52,516 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics
+2015-06-09 12:52:52,531 INFO  parse.ParserJob - Parsing http://haveababy.com/fertility-clinics/dallas-fertility-clinic
+2015-06-09 12:52:52,551 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:52:53,013 INFO  parse.ParserJob - ParserJob: success
+2015-06-09 12:52:53,014 INFO  parse.ParserJob - ParserJob: finished at 2015-06-09 12:52:53, time elapsed: 00:00:04
+2015-06-09 12:52:53,530 INFO  crawl.DbUpdaterJob - DbUpdaterJob: starting at 2015-06-09 12:52:53
+2015-06-09 12:52:53,530 INFO  crawl.DbUpdaterJob - DbUpdaterJob: updatinging all
+2015-06-09 12:52:53,603 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-06-09 12:52:53,612 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-06-09 12:52:53,618 WARN  plugin.PluginRepository - Error while loading plugin `/home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/test/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-06-09 12:52:54,328 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-06-09 12:52:55,676 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-06-09 12:52:55,677 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-06-09 12:52:55,677 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-06-09 12:52:56,439 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-06-09 12:52:56,557 INFO  crawl.DbUpdaterJob - DbUpdaterJob: finished at 2015-06-09 12:52:56, time elapsed: 00:00:03

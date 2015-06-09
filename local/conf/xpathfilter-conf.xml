@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xpathFilterConfiguration>
+
+       <xpathIndexerProperties pageUrlFilterRegex="^http://([a-z0-9]*\.)*atlantbh.com/"
+       pageContentFilterXPath="//article/div[@id='headerimg2']/div[@id='hText2']/span/span[1]"
+       pageContentFilterRegex="BLOG">        
+             <field name="articleTitle"
+             xPath="//div[@id='colLeftInner']/div[@class='blogPost']/h2/a" type="STRING" />
+             <field name="articleAuthor"
+             xPath="//div[@id='colLeftInner']/div[@class='blogPost']/div[@class='meta']/span"
+             type="STRING" />
+             <field name="articleContent" xPath="//div[@id='colLeftInner']/div[@class='blogPost']/p|
+                                                 //div[@id='colLeftInner']/div[@class='blogPost']/ol|
+                                                 //div[@id='colLeftInner']/div[@class='blogPost']/ul|
+                                                 //div[@id='colLeftInner']/div[@class='blogPost']/h2|
+                                                 //div[@id='colLeftInner']/div[@class='blogPost']/h3|
+                                                 //div[@id='colLeftInner']/div[@class='blogPost']/div[@id='LC32']"
+             type="STRING" concat="true" concatDelimiter=" " />
+       </xpathIndexerProperties>
+</xpathFilterConfiguration>
+

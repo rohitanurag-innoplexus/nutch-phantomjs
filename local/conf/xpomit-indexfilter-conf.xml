@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+
+<omitIndexingFilterConfiguration filteringType="WHITELIST">
+       <omitIndexingFilterConfigurationEntry target="META_FIELD_PRESENT" name="articleTitle" />
+</omitIndexingFilterConfiguration>
+

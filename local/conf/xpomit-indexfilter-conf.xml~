@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!— Filter configured to index only pages that have been previously accepted by the XPath-filter
+hence contain the articleTitle meta field -->
+<omitIndexingFilterConfiguration filteringType="WHITELIST">
+       <omitIndexingFilterConfigurationEntry target="META_FIELD_PRESENT" name="articleTitle" />
+</omitIndexingFilterConfiguration>
+

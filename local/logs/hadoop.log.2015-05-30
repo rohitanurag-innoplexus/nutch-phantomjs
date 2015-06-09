@@ -1,0 +1,45 @@
+2015-05-30 09:54:12,477 INFO  crawl.InjectorJob - InjectorJob: starting at 2015-05-30 09:54:12
+2015-05-30 09:54:12,486 INFO  crawl.InjectorJob - InjectorJob: Injecting urlDir: urls
+2015-05-30 09:54:14,483 INFO  crawl.InjectorJob - InjectorJob: Using class org.apache.gora.mongodb.store.MongoStore as the Gora storage class.
+2015-05-30 09:54:14,676 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-30 09:54:14,795 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2015-05-30 09:54:15,950 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-30 09:54:15,985 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-30 09:54:16,032 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-30 09:54:16,523 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-05-30 09:54:16,733 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-05-30 09:54:16,814 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-30 09:54:17,332 INFO  crawl.InjectorJob - InjectorJob: total number of urls rejected by filters: 0
+2015-05-30 09:54:17,332 INFO  crawl.InjectorJob - InjectorJob: total number of urls injected after normalization and filtering: 2
+2015-05-30 09:54:17,332 INFO  crawl.InjectorJob - Injector: finished at 2015-05-30 09:54:17, elapsed: 00:00:04
+2015-05-30 09:54:21,802 INFO  crawl.GeneratorJob - GeneratorJob: starting at 2015-05-30 09:54:21
+2015-05-30 09:54:21,803 INFO  crawl.GeneratorJob - GeneratorJob: Selecting best-scoring urls due for fetch.
+2015-05-30 09:54:21,804 INFO  crawl.GeneratorJob - GeneratorJob: starting
+2015-05-30 09:54:21,804 INFO  crawl.GeneratorJob - GeneratorJob: filtering: true
+2015-05-30 09:54:21,804 INFO  crawl.GeneratorJob - GeneratorJob: normalizing: true
+2015-05-30 09:54:21,804 INFO  crawl.GeneratorJob - GeneratorJob: topN: 80
+2015-05-30 09:54:22,131 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-30 09:54:22,131 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-30 09:54:22,132 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-30 09:54:22,893 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-30 09:54:23,508 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-30 09:54:23,514 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-30 09:54:23,522 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-30 09:54:23,622 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-30 09:54:23,622 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-30 09:54:23,622 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-30 09:54:23,764 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
+2015-05-30 09:54:24,531 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-30 09:54:25,249 INFO  crawl.GeneratorJob - GeneratorJob: finished at 2015-05-30 09:54:25, time elapsed: 00:00:03
+2015-05-30 09:54:25,249 INFO  crawl.GeneratorJob - GeneratorJob: generated batch id: 1432959861-1923413036 containing 80 URLs
+2015-05-30 09:54:33,358 INFO  crawl.DbUpdaterJob - DbUpdaterJob: starting at 2015-05-30 09:54:33
+2015-05-30 09:54:33,358 INFO  crawl.DbUpdaterJob - DbUpdaterJob: updatinging all
+2015-05-30 09:54:33,432 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-30 09:54:33,441 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-30 09:54:33,450 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-30 09:54:34,604 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-30 09:54:36,042 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-30 09:54:36,043 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-30 09:54:36,043 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-30 09:54:36,533 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-30 09:54:36,949 INFO  crawl.DbUpdaterJob - DbUpdaterJob: finished at 2015-05-30 09:54:36, time elapsed: 00:00:03

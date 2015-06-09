@@ -1,0 +1,505 @@
+2015-05-23 09:48:32,316 INFO  crawl.InjectorJob - InjectorJob: starting at 2015-05-23 09:48:32
+2015-05-23 09:48:32,317 INFO  crawl.InjectorJob - InjectorJob: Injecting urlDir: urls
+2015-05-23 09:48:35,908 INFO  crawl.InjectorJob - InjectorJob: Using class org.apache.gora.mongodb.store.MongoStore as the Gora storage class.
+2015-05-23 09:48:36,288 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:48:36,628 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2015-05-23 09:48:38,542 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:48:38,588 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:48:38,646 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:48:39,402 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-05-23 09:48:39,853 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-05-23 09:48:39,863 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:48:40,528 INFO  crawl.InjectorJob - InjectorJob: total number of urls rejected by filters: 0
+2015-05-23 09:48:40,528 INFO  crawl.InjectorJob - InjectorJob: total number of urls injected after normalization and filtering: 2
+2015-05-23 09:48:40,529 INFO  crawl.InjectorJob - Injector: finished at 2015-05-23 09:48:40, elapsed: 00:00:08
+2015-05-23 09:49:08,973 INFO  crawl.GeneratorJob - GeneratorJob: starting at 2015-05-23 09:49:08
+2015-05-23 09:49:08,973 INFO  crawl.GeneratorJob - GeneratorJob: Selecting best-scoring urls due for fetch.
+2015-05-23 09:49:08,973 INFO  crawl.GeneratorJob - GeneratorJob: starting
+2015-05-23 09:49:08,974 INFO  crawl.GeneratorJob - GeneratorJob: filtering: true
+2015-05-23 09:49:08,974 INFO  crawl.GeneratorJob - GeneratorJob: normalizing: true
+2015-05-23 09:49:08,974 INFO  crawl.GeneratorJob - GeneratorJob: topN: 60
+2015-05-23 09:49:09,288 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:49:09,288 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:49:09,288 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:49:10,121 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:49:10,664 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:49:10,671 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:49:10,679 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:49:10,783 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:49:10,783 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:49:10,783 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:49:10,943 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
+2015-05-23 09:49:11,362 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:49:11,437 INFO  crawl.GeneratorJob - GeneratorJob: finished at 2015-05-23 09:49:11, time elapsed: 00:00:02
+2015-05-23 09:49:11,437 INFO  crawl.GeneratorJob - GeneratorJob: generated batch id: 1432354748-2129016897 containing 60 URLs
+2015-05-23 09:51:44,897 INFO  crawl.InjectorJob - InjectorJob: starting at 2015-05-23 09:51:44
+2015-05-23 09:51:44,897 INFO  crawl.InjectorJob - InjectorJob: Injecting urlDir: urls
+2015-05-23 09:51:45,907 INFO  crawl.InjectorJob - InjectorJob: Using class org.apache.gora.mongodb.store.MongoStore as the Gora storage class.
+2015-05-23 09:51:45,958 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:51:46,027 WARN  snappy.LoadSnappy - Snappy native library not loaded
+2015-05-23 09:51:46,512 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:51:46,519 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:51:46,526 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:51:46,625 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-05-23 09:51:46,821 INFO  regex.RegexURLNormalizer - can't find rules for scope 'inject', using default
+2015-05-23 09:51:46,910 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:51:47,321 INFO  crawl.InjectorJob - InjectorJob: total number of urls rejected by filters: 0
+2015-05-23 09:51:47,321 INFO  crawl.InjectorJob - InjectorJob: total number of urls injected after normalization and filtering: 2
+2015-05-23 09:51:47,322 INFO  crawl.InjectorJob - Injector: finished at 2015-05-23 09:51:47, elapsed: 00:00:02
+2015-05-23 09:51:50,332 INFO  crawl.GeneratorJob - GeneratorJob: starting at 2015-05-23 09:51:50
+2015-05-23 09:51:50,332 INFO  crawl.GeneratorJob - GeneratorJob: Selecting best-scoring urls due for fetch.
+2015-05-23 09:51:50,332 INFO  crawl.GeneratorJob - GeneratorJob: starting
+2015-05-23 09:51:50,332 INFO  crawl.GeneratorJob - GeneratorJob: filtering: true
+2015-05-23 09:51:50,333 INFO  crawl.GeneratorJob - GeneratorJob: normalizing: true
+2015-05-23 09:51:50,333 INFO  crawl.GeneratorJob - GeneratorJob: topN: 60
+2015-05-23 09:51:50,613 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:51:50,613 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:51:50,613 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:51:51,398 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:51:51,956 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:51:51,962 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:51:51,968 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:51:52,050 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:51:52,050 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:51:52,050 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:51:52,105 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
+2015-05-23 09:51:52,200 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:51:52,766 INFO  crawl.GeneratorJob - GeneratorJob: finished at 2015-05-23 09:51:52, time elapsed: 00:00:02
+2015-05-23 09:51:52,766 INFO  crawl.GeneratorJob - GeneratorJob: generated batch id: 1432354910-263351879 containing 1 URLs
+2015-05-23 09:52:19,140 INFO  crawl.GeneratorJob - GeneratorJob: starting at 2015-05-23 09:52:19
+2015-05-23 09:52:19,141 INFO  crawl.GeneratorJob - GeneratorJob: Selecting best-scoring urls due for fetch.
+2015-05-23 09:52:19,141 INFO  crawl.GeneratorJob - GeneratorJob: starting
+2015-05-23 09:52:19,141 INFO  crawl.GeneratorJob - GeneratorJob: filtering: true
+2015-05-23 09:52:19,141 INFO  crawl.GeneratorJob - GeneratorJob: normalizing: true
+2015-05-23 09:52:19,141 INFO  crawl.GeneratorJob - GeneratorJob: topN: 60
+2015-05-23 09:52:19,438 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:52:19,439 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:52:19,439 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:52:20,229 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:52:20,750 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:52:20,758 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:52:20,765 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:52:20,866 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:52:20,866 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:52:20,866 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:52:21,018 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:52:21,543 INFO  crawl.GeneratorJob - GeneratorJob: finished at 2015-05-23 09:52:21, time elapsed: 00:00:02
+2015-05-23 09:52:21,543 INFO  crawl.GeneratorJob - GeneratorJob: generated batch id: 1432354939-1557013540 containing 0 URLs
+2015-05-23 09:52:40,216 INFO  fetcher.FetcherJob - FetcherJob: starting at 2015-05-23 09:52:40
+2015-05-23 09:52:40,217 INFO  fetcher.FetcherJob - FetcherJob: fetching all
+2015-05-23 09:52:40,219 INFO  fetcher.FetcherJob - FetcherJob: threads: 10
+2015-05-23 09:52:40,219 INFO  fetcher.FetcherJob - FetcherJob: parsing: false
+2015-05-23 09:52:40,219 INFO  fetcher.FetcherJob - FetcherJob: resuming: false
+2015-05-23 09:52:40,219 INFO  fetcher.FetcherJob - FetcherJob : timelimit set for : -1
+2015-05-23 09:52:40,601 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:52:40,608 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:52:40,617 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:52:41,342 INFO  httpclient.Http - http.proxy.host = null
+2015-05-23 09:52:41,342 INFO  httpclient.Http - http.proxy.port = 8080
+2015-05-23 09:52:41,342 INFO  httpclient.Http - http.timeout = 10000
+2015-05-23 09:52:41,342 INFO  httpclient.Http - http.content.limit = 65536
+2015-05-23 09:52:41,342 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-05-23 09:52:41,342 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-05-23 09:52:41,342 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-05-23 09:52:41,361 INFO  httpclient.Http - http.proxy.host = null
+2015-05-23 09:52:41,362 INFO  httpclient.Http - http.proxy.port = 8080
+2015-05-23 09:52:41,362 INFO  httpclient.Http - http.timeout = 10000
+2015-05-23 09:52:41,362 INFO  httpclient.Http - http.content.limit = 65536
+2015-05-23 09:52:41,362 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-05-23 09:52:41,362 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-05-23 09:52:41,362 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-05-23 09:52:42,143 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:52:42,982 INFO  fetcher.FetcherJob - Using queue mode : byHost
+2015-05-23 09:52:42,983 INFO  fetcher.FetcherJob - Fetcher: threads: 10
+2015-05-23 09:52:42,998 INFO  fetcher.FetcherJob - QueueFeeder finished: total 1 records. Hit by time limit :0
+2015-05-23 09:52:43,007 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/ (queue crawl delay=5000ms)
+2015-05-23 09:52:43,008 INFO  fetcher.FetcherJob - -finishing thread FetcherThread1, activeThreads=1
+2015-05-23 09:52:43,008 INFO  fetcher.FetcherJob - -finishing thread FetcherThread2, activeThreads=1
+2015-05-23 09:52:43,009 INFO  fetcher.FetcherJob - -finishing thread FetcherThread3, activeThreads=1
+2015-05-23 09:52:43,012 INFO  httpclient.Http - http.proxy.host = null
+2015-05-23 09:52:43,012 INFO  httpclient.Http - http.proxy.port = 8080
+2015-05-23 09:52:43,012 INFO  httpclient.Http - http.timeout = 10000
+2015-05-23 09:52:43,012 INFO  httpclient.Http - http.content.limit = 65536
+2015-05-23 09:52:43,012 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-05-23 09:52:43,012 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-05-23 09:52:43,012 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-05-23 09:52:43,017 INFO  fetcher.FetcherJob - -finishing thread FetcherThread4, activeThreads=1
+2015-05-23 09:52:43,018 INFO  fetcher.FetcherJob - -finishing thread FetcherThread5, activeThreads=1
+2015-05-23 09:52:43,018 INFO  fetcher.FetcherJob - -finishing thread FetcherThread6, activeThreads=1
+2015-05-23 09:52:43,019 INFO  fetcher.FetcherJob - -finishing thread FetcherThread7, activeThreads=1
+2015-05-23 09:52:43,019 INFO  fetcher.FetcherJob - -finishing thread FetcherThread8, activeThreads=1
+2015-05-23 09:52:43,019 INFO  fetcher.FetcherJob - Fetcher: throughput threshold: -1
+2015-05-23 09:52:43,020 INFO  fetcher.FetcherJob - Fetcher: throughput threshold sequence: 5
+2015-05-23 09:52:43,020 INFO  fetcher.FetcherJob - -finishing thread FetcherThread9, activeThreads=1
+2015-05-23 09:52:45,509 INFO  fetcher.FetcherJob - -finishing thread FetcherThread0, activeThreads=0
+2015-05-23 09:52:48,020 INFO  fetcher.FetcherJob - 0/0 spinwaiting/active, 1 pages, 0 errors, 0.2 0 pages/s, 89 89 kb/s, 0 URLs in 0 queues
+2015-05-23 09:52:48,021 INFO  fetcher.FetcherJob - -activeThreads=0
+2015-05-23 09:52:48,026 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:52:48,598 INFO  fetcher.FetcherJob - FetcherJob: finished at 2015-05-23 09:52:48, time elapsed: 00:00:08
+2015-05-23 09:53:24,890 INFO  parse.ParserJob - ParserJob: starting at 2015-05-23 09:53:24
+2015-05-23 09:53:24,891 INFO  parse.ParserJob - ParserJob: resuming:	false
+2015-05-23 09:53:24,891 INFO  parse.ParserJob - ParserJob: forced reparse:	false
+2015-05-23 09:53:24,891 INFO  parse.ParserJob - ParserJob: parsing all
+2015-05-23 09:53:25,266 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:53:25,273 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:53:25,282 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:53:27,118 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
+2015-05-23 09:53:27,771 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:53:28,264 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
+2015-05-23 09:53:28,341 INFO  parse.ParserJob - Parsing http://rohitanurag.com/
+2015-05-23 09:53:29,351 INFO  regex.RegexURLNormalizer - can't find rules for scope 'outlink', using default
+2015-05-23 09:53:29,451 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:53:30,145 INFO  parse.ParserJob - ParserJob: success
+2015-05-23 09:53:30,147 INFO  parse.ParserJob - ParserJob: finished at 2015-05-23 09:53:30, time elapsed: 00:00:05
+2015-05-23 09:53:40,031 INFO  crawl.DbUpdaterJob - DbUpdaterJob: starting at 2015-05-23 09:53:40
+2015-05-23 09:53:40,032 INFO  crawl.DbUpdaterJob - DbUpdaterJob: updatinging all
+2015-05-23 09:53:40,103 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:53:40,110 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:53:40,117 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:53:41,292 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:53:42,044 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:53:42,045 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:53:42,045 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:53:42,162 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:53:42,638 INFO  crawl.DbUpdaterJob - DbUpdaterJob: finished at 2015-05-23 09:53:42, time elapsed: 00:00:02
+2015-05-23 09:53:49,023 INFO  crawl.GeneratorJob - GeneratorJob: starting at 2015-05-23 09:53:49
+2015-05-23 09:53:49,023 INFO  crawl.GeneratorJob - GeneratorJob: Selecting best-scoring urls due for fetch.
+2015-05-23 09:53:49,023 INFO  crawl.GeneratorJob - GeneratorJob: starting
+2015-05-23 09:53:49,023 INFO  crawl.GeneratorJob - GeneratorJob: filtering: true
+2015-05-23 09:53:49,023 INFO  crawl.GeneratorJob - GeneratorJob: normalizing: true
+2015-05-23 09:53:49,024 INFO  crawl.GeneratorJob - GeneratorJob: topN: 60
+2015-05-23 09:53:49,365 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:53:49,366 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:53:49,366 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:53:50,200 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:53:50,768 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:53:50,775 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:53:50,784 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:53:50,884 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:53:50,884 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:53:50,884 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:53:50,969 INFO  regex.RegexURLNormalizer - can't find rules for scope 'generate_host_count', using default
+2015-05-23 09:53:51,233 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:53:51,564 INFO  crawl.GeneratorJob - GeneratorJob: finished at 2015-05-23 09:53:51, time elapsed: 00:00:02
+2015-05-23 09:53:51,564 INFO  crawl.GeneratorJob - GeneratorJob: generated batch id: 1432355029-911362500 containing 36 URLs
+2015-05-23 09:53:57,350 INFO  fetcher.FetcherJob - FetcherJob: starting at 2015-05-23 09:53:57
+2015-05-23 09:53:57,351 INFO  fetcher.FetcherJob - FetcherJob: fetching all
+2015-05-23 09:53:57,352 INFO  fetcher.FetcherJob - FetcherJob: threads: 10
+2015-05-23 09:53:57,353 INFO  fetcher.FetcherJob - FetcherJob: parsing: false
+2015-05-23 09:53:57,353 INFO  fetcher.FetcherJob - FetcherJob: resuming: false
+2015-05-23 09:53:57,353 INFO  fetcher.FetcherJob - FetcherJob : timelimit set for : -1
+2015-05-23 09:53:57,734 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:53:57,742 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:53:57,750 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:53:58,376 INFO  httpclient.Http - http.proxy.host = null
+2015-05-23 09:53:58,376 INFO  httpclient.Http - http.proxy.port = 8080
+2015-05-23 09:53:58,376 INFO  httpclient.Http - http.timeout = 10000
+2015-05-23 09:53:58,376 INFO  httpclient.Http - http.content.limit = 65536
+2015-05-23 09:53:58,376 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-05-23 09:53:58,376 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-05-23 09:53:58,376 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-05-23 09:53:58,385 INFO  httpclient.Http - http.proxy.host = null
+2015-05-23 09:53:58,385 INFO  httpclient.Http - http.proxy.port = 8080
+2015-05-23 09:53:58,385 INFO  httpclient.Http - http.timeout = 10000
+2015-05-23 09:53:58,385 INFO  httpclient.Http - http.content.limit = 65536
+2015-05-23 09:53:58,385 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-05-23 09:53:58,385 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-05-23 09:53:58,385 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-05-23 09:53:59,107 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:53:59,865 INFO  fetcher.FetcherJob - Using queue mode : byHost
+2015-05-23 09:53:59,866 INFO  fetcher.FetcherJob - Fetcher: threads: 10
+2015-05-23 09:53:59,890 INFO  fetcher.FetcherJob - fetching http://wordpress.org/ (queue crawl delay=5000ms)
+2015-05-23 09:53:59,891 INFO  httpclient.Http - http.proxy.host = null
+2015-05-23 09:53:59,891 INFO  httpclient.Http - http.proxy.port = 8080
+2015-05-23 09:53:59,891 INFO  httpclient.Http - http.timeout = 10000
+2015-05-23 09:53:59,891 INFO  httpclient.Http - http.content.limit = 65536
+2015-05-23 09:53:59,891 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-05-23 09:53:59,891 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-05-23 09:53:59,891 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-05-23 09:53:59,898 INFO  fetcher.FetcherJob - QueueFeeder finished: total 37 records. Hit by time limit :0
+2015-05-23 09:53:59,898 INFO  fetcher.FetcherJob - fetching https://wordpress.com/themes/ (queue crawl delay=5000ms)
+2015-05-23 09:53:59,900 INFO  httpclient.Http - http.proxy.host = null
+2015-05-23 09:53:59,900 INFO  httpclient.Http - http.proxy.port = 8080
+2015-05-23 09:53:59,900 INFO  httpclient.Http - http.timeout = 10000
+2015-05-23 09:53:59,900 INFO  httpclient.Http - http.content.limit = 65536
+2015-05-23 09:53:59,900 INFO  httpclient.Http - http.agent = Value_name/Nutch-2.3
+2015-05-23 09:53:59,901 INFO  httpclient.Http - http.accept.language = ja-jp, en-us,en-gb,en;q=0.7,*;q=0.3
+2015-05-23 09:53:59,901 INFO  httpclient.Http - http.accept = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-05-23 09:53:59,903 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=285 (queue crawl delay=5000ms)
+2015-05-23 09:53:59,905 INFO  fetcher.FetcherJob - fetching http://gravatar.com/avatar/49feddae37aba5d13537b1a207382897/?s=120&d=mm (queue crawl delay=5000ms)
+2015-05-23 09:53:59,905 INFO  fetcher.FetcherJob - fetching http://gmpg.org/xfn/11 (queue crawl delay=5000ms)
+2015-05-23 09:53:59,905 INFO  fetcher.FetcherJob - fetching http://fonts.googleapis.com/css?family=Montserrat:400,700 (queue crawl delay=5000ms)
+2015-05-23 09:53:59,907 INFO  fetcher.FetcherJob - Fetcher: throughput threshold: -1
+2015-05-23 09:53:59,907 INFO  fetcher.FetcherJob - Fetcher: throughput threshold sequence: 5
+2015-05-23 09:54:02,586 INFO  httpclient.HttpMethodDirector - Redirect requested but followRedirects is disabled
+2015-05-23 09:54:02,603 INFO  regex.RegexURLNormalizer - can't find rules for scope 'fetcher', using default
+2015-05-23 09:54:04,908 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 5 pages, 0 errors, 1.0 1 pages/s, 59 59 kb/s, 31 URLs in 2 queues
+2015-05-23 09:54:06,602 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=294 (queue crawl delay=5000ms)
+2015-05-23 09:54:09,909 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 7 pages, 0 errors, 0.7 0 pages/s, 103 146 kb/s, 30 URLs in 1 queues
+2015-05-23 09:54:12,177 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/xmlrpc.php?rsd (queue crawl delay=5000ms)
+2015-05-23 09:54:14,909 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 8 pages, 0 errors, 0.5 0 pages/s, 69 1 kb/s, 29 URLs in 1 queues
+2015-05-23 09:54:17,615 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=68 (queue crawl delay=5000ms)
+2015-05-23 09:54:19,910 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 9 pages, 0 errors, 0.5 0 pages/s, 61 37 kb/s, 28 URLs in 1 queues
+2015-05-23 09:54:23,415 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201402 (queue crawl delay=5000ms)
+2015-05-23 09:54:24,910 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 10 pages, 0 errors, 0.4 0 pages/s, 55 31 kb/s, 27 URLs in 1 queues
+2015-05-23 09:54:28,942 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201407 (queue crawl delay=5000ms)
+2015-05-23 09:54:29,911 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 11 pages, 0 errors, 0.4 0 pages/s, 51 32 kb/s, 26 URLs in 1 queues
+2015-05-23 09:54:34,462 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.4 (queue crawl delay=5000ms)
+2015-05-23 09:54:34,912 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 12 pages, 0 errors, 0.3 0 pages/s, 45 8 kb/s, 25 URLs in 1 queues
+2015-05-23 09:54:39,785 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/wp-includes/wlwmanifest.xml (queue crawl delay=5000ms)
+2015-05-23 09:54:39,912 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 12 pages, 0 errors, 0.3 0 pages/s, 39 0 kb/s, 24 URLs in 1 queues
+2015-05-23 09:54:44,913 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 13 pages, 0 errors, 0.3 0 pages/s, 35 1 kb/s, 24 URLs in 1 queues
+2015-05-23 09:54:45,116 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201502 (queue crawl delay=5000ms)
+2015-05-23 09:54:49,913 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 14 pages, 0 errors, 0.3 0 pages/s, 35 33 kb/s, 23 URLs in 1 queues
+2015-05-23 09:54:50,713 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=82 (queue crawl delay=5000ms)
+2015-05-23 09:54:54,914 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 15 pages, 0 errors, 0.3 0 pages/s, 35 40 kb/s, 22 URLs in 1 queues
+2015-05-23 09:54:56,295 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201408 (queue crawl delay=5000ms)
+2015-05-23 09:54:59,914 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 16 pages, 0 errors, 0.3 0 pages/s, 35 31 kb/s, 21 URLs in 1 queues
+2015-05-23 09:55:01,875 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/wp-content/themes/writr/style.css?ver=4.1.1 (queue crawl delay=5000ms)
+2015-05-23 09:55:04,915 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 16 pages, 0 errors, 0.2 0 pages/s, 32 0 kb/s, 20 URLs in 1 queues
+2015-05-23 09:55:09,916 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 17 pages, 0 errors, 0.2 0 pages/s, 35 68 kb/s, 20 URLs in 1 queues
+2015-05-23 09:55:14,558 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=75 (queue crawl delay=5000ms)
+2015-05-23 09:55:14,917 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 17 pages, 0 errors, 0.2 0 pages/s, 32 0 kb/s, 19 URLs in 1 queues
+2015-05-23 09:55:19,917 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 18 pages, 0 errors, 0.2 0 pages/s, 33 37 kb/s, 19 URLs in 1 queues
+2015-05-23 09:55:20,141 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=292 (queue crawl delay=5000ms)
+2015-05-23 09:55:24,918 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 19 pages, 0 errors, 0.2 0 pages/s, 33 33 kb/s, 18 URLs in 1 queues
+2015-05-23 09:55:25,892 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201403 (queue crawl delay=5000ms)
+2015-05-23 09:55:29,918 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 20 pages, 0 errors, 0.2 0 pages/s, 33 32 kb/s, 17 URLs in 1 queues
+2015-05-23 09:55:31,501 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201310 (queue crawl delay=5000ms)
+2015-05-23 09:55:34,919 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 21 pages, 0 errors, 0.2 0 pages/s, 33 30 kb/s, 16 URLs in 1 queues
+2015-05-23 09:55:37,045 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/ (queue crawl delay=5000ms)
+2015-05-23 09:55:39,919 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 22 pages, 0 errors, 0.2 0 pages/s, 35 89 kb/s, 15 URLs in 1 queues
+2015-05-23 09:55:42,766 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=92 (queue crawl delay=5000ms)
+2015-05-23 09:55:44,920 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 23 pages, 0 errors, 0.2 0 pages/s, 36 39 kb/s, 14 URLs in 1 queues
+2015-05-23 09:55:48,328 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?feed=rss2 (queue crawl delay=5000ms)
+2015-05-23 09:55:49,920 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 24 pages, 0 errors, 0.2 0 pages/s, 37 57 kb/s, 13 URLs in 1 queues
+2015-05-23 09:55:53,915 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201311 (queue crawl delay=5000ms)
+2015-05-23 09:55:54,921 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 25 pages, 0 errors, 0.2 0 pages/s, 37 52 kb/s, 12 URLs in 1 queues
+2015-05-23 09:55:59,461 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201412 (queue crawl delay=5000ms)
+2015-05-23 09:55:59,922 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 25 pages, 0 errors, 0.2 0 pages/s, 36 0 kb/s, 11 URLs in 1 queues
+2015-05-23 09:56:04,922 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 26 pages, 0 errors, 0.2 0 pages/s, 36 33 kb/s, 11 URLs in 1 queues
+2015-05-23 09:56:04,989 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=185 (queue crawl delay=5000ms)
+2015-05-23 09:56:09,923 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 27 pages, 0 errors, 0.2 0 pages/s, 36 39 kb/s, 10 URLs in 1 queues
+2015-05-23 09:56:10,779 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?m=201312 (queue crawl delay=5000ms)
+2015-05-23 09:56:14,923 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 28 pages, 0 errors, 0.2 0 pages/s, 36 32 kb/s, 9 URLs in 1 queues
+2015-05-23 09:56:16,368 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/wp-content/plugins/wpclef/assets/dist/css/main.min.css?ver=2.2.8 (queue crawl delay=5000ms)
+2015-05-23 09:56:19,924 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 29 pages, 0 errors, 0.2 0 pages/s, 35 17 kb/s, 8 URLs in 1 queues
+2015-05-23 09:56:21,706 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?paged=2 (queue crawl delay=5000ms)
+2015-05-23 09:56:24,924 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 30 pages, 0 errors, 0.2 0 pages/s, 35 49 kb/s, 7 URLs in 1 queues
+2015-05-23 09:56:27,312 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=278 (queue crawl delay=5000ms)
+2015-05-23 09:56:29,925 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 31 pages, 0 errors, 0.2 0 pages/s, 35 40 kb/s, 6 URLs in 1 queues
+2015-05-23 09:56:33,202 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/wp-content/plugins/facebook-button-plugin/css/style.css?ver=4.1.1 (queue crawl delay=5000ms)
+2015-05-23 09:56:34,925 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 32 pages, 0 errors, 0.2 0 pages/s, 34 0 kb/s, 5 URLs in 1 queues
+2015-05-23 09:56:38,486 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/xmlrpc.php (queue crawl delay=5000ms)
+2015-05-23 09:56:39,926 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 33 pages, 0 errors, 0.2 0 pages/s, 33 0 kb/s, 4 URLs in 1 queues
+2015-05-23 09:56:39,926 INFO  fetcher.FetcherJob - * queue: http://rohitanurag.com
+2015-05-23 09:56:39,927 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-05-23 09:56:39,927 INFO  fetcher.FetcherJob -   inProgress    = 0
+2015-05-23 09:56:39,927 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-05-23 09:56:39,927 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-05-23 09:56:39,927 INFO  fetcher.FetcherJob -   nextFetchTime = 1432355204103
+2015-05-23 09:56:39,927 INFO  fetcher.FetcherJob -   now           = 1432355199927
+2015-05-23 09:56:39,928 INFO  fetcher.FetcherJob -   0. http://rohitanurag.com/?feed=comments-rss2
+2015-05-23 09:56:39,928 INFO  fetcher.FetcherJob -   1. http://rohitanurag.com/?p=299
+2015-05-23 09:56:39,928 INFO  fetcher.FetcherJob -   2. http://rohitanurag.com/?cat=1
+2015-05-23 09:56:39,928 INFO  fetcher.FetcherJob -   3. http://rohitanurag.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50
+2015-05-23 09:56:44,109 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?feed=comments-rss2 (queue crawl delay=5000ms)
+2015-05-23 09:56:44,928 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 34 pages, 0 errors, 0.2 0 pages/s, 32 4 kb/s, 3 URLs in 1 queues
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob - * queue: http://rohitanurag.com
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   inProgress    = 0
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   nextFetchTime = 1432355209622
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   now           = 1432355204929
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   0. http://rohitanurag.com/?p=299
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   1. http://rohitanurag.com/?cat=1
+2015-05-23 09:56:44,929 INFO  fetcher.FetcherJob -   2. http://rohitanurag.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50
+2015-05-23 09:56:49,626 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?p=299 (queue crawl delay=5000ms)
+2015-05-23 09:56:49,930 INFO  fetcher.FetcherJob - 9/10 spinwaiting/active, 34 pages, 0 errors, 0.2 0 pages/s, 31 0 kb/s, 2 URLs in 1 queues
+2015-05-23 09:56:49,930 INFO  fetcher.FetcherJob - * queue: http://rohitanurag.com
+2015-05-23 09:56:49,930 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-05-23 09:56:49,930 INFO  fetcher.FetcherJob -   inProgress    = 1
+2015-05-23 09:56:49,930 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-05-23 09:56:49,930 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-05-23 09:56:49,930 INFO  fetcher.FetcherJob -   nextFetchTime = 1432355209622
+2015-05-23 09:56:49,930 INFO  fetcher.FetcherJob -   now           = 1432355209930
+2015-05-23 09:56:49,931 INFO  fetcher.FetcherJob -   0. http://rohitanurag.com/?cat=1
+2015-05-23 09:56:49,931 INFO  fetcher.FetcherJob -   1. http://rohitanurag.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50
+2015-05-23 09:56:54,931 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 35 pages, 0 errors, 0.2 0 pages/s, 32 43 kb/s, 2 URLs in 1 queues
+2015-05-23 09:56:54,931 INFO  fetcher.FetcherJob - * queue: http://rohitanurag.com
+2015-05-23 09:56:54,931 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-05-23 09:56:54,932 INFO  fetcher.FetcherJob -   inProgress    = 0
+2015-05-23 09:56:54,932 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-05-23 09:56:54,932 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-05-23 09:56:54,932 INFO  fetcher.FetcherJob -   nextFetchTime = 1432355215175
+2015-05-23 09:56:54,932 INFO  fetcher.FetcherJob -   now           = 1432355214932
+2015-05-23 09:56:54,932 INFO  fetcher.FetcherJob -   0. http://rohitanurag.com/?cat=1
+2015-05-23 09:56:54,932 INFO  fetcher.FetcherJob -   1. http://rohitanurag.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50
+2015-05-23 09:56:55,179 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/?cat=1 (queue crawl delay=5000ms)
+2015-05-23 09:56:59,932 INFO  fetcher.FetcherJob - 10/10 spinwaiting/active, 36 pages, 0 errors, 0.2 0 pages/s, 33 89 kb/s, 1 URLs in 1 queues
+2015-05-23 09:56:59,933 INFO  fetcher.FetcherJob - * queue: http://rohitanurag.com
+2015-05-23 09:56:59,933 INFO  fetcher.FetcherJob -   maxThreads    = 1
+2015-05-23 09:56:59,933 INFO  fetcher.FetcherJob -   inProgress    = 0
+2015-05-23 09:56:59,933 INFO  fetcher.FetcherJob -   crawlDelay    = 5000
+2015-05-23 09:56:59,933 INFO  fetcher.FetcherJob -   minCrawlDelay = 0
+2015-05-23 09:56:59,933 INFO  fetcher.FetcherJob -   nextFetchTime = 1432355220910
+2015-05-23 09:56:59,933 INFO  fetcher.FetcherJob -   now           = 1432355219933
+2015-05-23 09:56:59,933 INFO  fetcher.FetcherJob -   0. http://rohitanurag.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50
+2015-05-23 09:57:00,914 INFO  fetcher.FetcherJob - fetching http://rohitanurag.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50 (queue crawl delay=5000ms)
+2015-05-23 09:57:00,929 INFO  fetcher.FetcherJob - -finishing thread FetcherThread5, activeThreads=9
+2015-05-23 09:57:00,976 INFO  fetcher.FetcherJob - -finishing thread FetcherThread6, activeThreads=7
+2015-05-23 09:57:00,977 INFO  fetcher.FetcherJob - -finishing thread FetcherThread2, activeThreads=6
+2015-05-23 09:57:00,978 INFO  fetcher.FetcherJob - -finishing thread FetcherThread7, activeThreads=5
+2015-05-23 09:57:00,977 INFO  fetcher.FetcherJob - -finishing thread FetcherThread8, activeThreads=6
+2015-05-23 09:57:00,987 INFO  fetcher.FetcherJob - -finishing thread FetcherThread3, activeThreads=4
+2015-05-23 09:57:01,080 INFO  fetcher.FetcherJob - -finishing thread FetcherThread4, activeThreads=3
+2015-05-23 09:57:01,232 INFO  fetcher.FetcherJob - -finishing thread FetcherThread9, activeThreads=2
+2015-05-23 09:57:01,320 INFO  fetcher.FetcherJob - -finishing thread FetcherThread1, activeThreads=1
+2015-05-23 09:57:01,342 INFO  fetcher.FetcherJob - -finishing thread FetcherThread0, activeThreads=0
+2015-05-23 09:57:04,934 INFO  fetcher.FetcherJob - 0/0 spinwaiting/active, 37 pages, 0 errors, 0.2 0 pages/s, 32 2 kb/s, 0 URLs in 0 queues
+2015-05-23 09:57:04,934 INFO  fetcher.FetcherJob - -activeThreads=0
+2015-05-23 09:57:04,940 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:57:05,617 INFO  fetcher.FetcherJob - FetcherJob: finished at 2015-05-23 09:57:05, time elapsed: 00:03:08
+2015-05-23 09:57:41,723 INFO  parse.ParserJob - ParserJob: starting at 2015-05-23 09:57:41
+2015-05-23 09:57:41,724 INFO  parse.ParserJob - ParserJob: resuming:	false
+2015-05-23 09:57:41,725 INFO  parse.ParserJob - ParserJob: forced reparse:	false
+2015-05-23 09:57:41,725 INFO  parse.ParserJob - ParserJob: parsing all
+2015-05-23 09:57:42,111 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:57:42,119 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:57:42,125 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:57:42,907 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
+2015-05-23 09:57:43,520 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:57:44,078 INFO  crawl.SignatureFactory - Using Signature impl: org.apache.nutch.crawl.MD5Signature
+2015-05-23 09:57:44,197 INFO  parse.ParserJob - Parsing http://rohitanurag.com/
+2015-05-23 09:57:45,007 INFO  regex.RegexURLNormalizer - can't find rules for scope 'outlink', using default
+2015-05-23 09:57:45,139 INFO  parse.ParserJob - Parsing http://fonts.googleapis.com/css?family=Montserrat:400,700
+2015-05-23 09:57:45,142 INFO  parse.ParserFactory - The parsing plugins: [org.apache.nutch.parse.tika.TikaParser] are enabled via the plugin.includes system property, and all claim to support the content type text/css, but they are not mapped to it  in the parse-plugins.xml file
+2015-05-23 09:57:45,142 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-05-23 09:57:45,142 WARN  parse.ParseUtil - Unable to successfully parse content http://fonts.googleapis.com/css?family=Montserrat:400,700 of type text/css
+2015-05-23 09:57:45,147 INFO  parse.ParserJob - Parsing http://gravatar.com/avatar/49feddae37aba5d13537b1a207382897/?s=120&d=mm
+2015-05-23 09:57:45,147 INFO  parse.ParserFactory - The parsing plugins: [org.apache.nutch.parse.tika.TikaParser] are enabled via the plugin.includes system property, and all claim to support the content type image/jpeg, but they are not mapped to it  in the parse-plugins.xml file
+2015-05-23 09:57:45,237 INFO  parse.ParserJob - Parsing http://gmpg.org/xfn/11
+2015-05-23 09:57:45,290 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=285
+2015-05-23 09:57:45,374 INFO  parse.ParserJob - Parsing http://wordpress.org/
+2015-05-23 09:57:45,377 INFO  parse.ParserJob - Parsing https://wordpress.com/themes/
+2015-05-23 09:57:45,538 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=294
+2015-05-23 09:57:45,602 INFO  parse.ParserJob - Parsing http://rohitanurag.com/xmlrpc.php?rsd
+2015-05-23 09:57:45,602 INFO  parse.ParserFactory - The parsing plugins: [org.apache.nutch.parse.tika.TikaParser] are enabled via the plugin.includes system property, and all claim to support the content type application/xml, but they are not mapped to it  in the parse-plugins.xml file
+2015-05-23 09:57:45,622 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=68
+2015-05-23 09:57:45,718 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201402
+2015-05-23 09:57:45,798 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201407
+2015-05-23 09:57:45,850 INFO  parse.ParserJob - Parsing http://rohitanurag.com/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.4
+2015-05-23 09:57:45,850 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-05-23 09:57:45,850 WARN  parse.ParseUtil - Unable to successfully parse content http://rohitanurag.com/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.4 of type text/css
+2015-05-23 09:57:45,853 INFO  parse.ParserJob - Parsing http://rohitanurag.com/wp-includes/wlwmanifest.xml
+2015-05-23 09:57:45,861 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201502
+2015-05-23 09:57:45,907 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=82
+2015-05-23 09:57:45,950 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201408
+2015-05-23 09:57:45,980 INFO  parse.ParserJob - Parsing http://rohitanurag.com/wp-content/themes/writr/style.css?ver=4.1.1
+2015-05-23 09:57:45,980 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-05-23 09:57:45,980 WARN  parse.ParseUtil - Unable to successfully parse content http://rohitanurag.com/wp-content/themes/writr/style.css?ver=4.1.1 of type text/css
+2015-05-23 09:57:45,983 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=75
+2015-05-23 09:57:46,011 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=292
+2015-05-23 09:57:46,040 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201403
+2015-05-23 09:57:46,066 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201310
+2015-05-23 09:57:46,094 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=92
+2015-05-23 09:57:46,131 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?feed=rss2
+2015-05-23 09:57:46,131 WARN  parse.ParserFactory - ParserFactory: Plugin: org.apache.nutch.parse.feed.FeedParser mapped to contentType application/rss+xml via parse-plugins.xml, but not enabled via plugin.includes in nutch-default.xml
+2015-05-23 09:57:46,165 WARN  parse.ParseUtil - Error parsing http://rohitanurag.com/?feed=rss2
+java.util.concurrent.ExecutionException: java.lang.ExceptionInInitializerError
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:202)
+	at org.apache.nutch.parse.ParseUtil.runParser(ParseUtil.java:151)
+	at org.apache.nutch.parse.ParseUtil.parse(ParseUtil.java:131)
+	at org.apache.nutch.parse.ParseUtil.process(ParseUtil.java:181)
+	at org.apache.nutch.parse.ParserJob$ParserMapper.map(ParserJob.java:135)
+	at org.apache.nutch.parse.ParserJob$ParserMapper.map(ParserJob.java:82)
+	at org.apache.hadoop.mapreduce.Mapper.run(Mapper.java:145)
+	at org.apache.hadoop.mapred.MapTask.runNewMapper(MapTask.java:764)
+	at org.apache.hadoop.mapred.MapTask.run(MapTask.java:364)
+	at org.apache.hadoop.mapred.LocalJobRunner$Job$MapTaskRunnable.run(LocalJobRunner.java:223)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.ExceptionInInitializerError
+	at com.sun.syndication.io.SyndFeedInput.build(SyndFeedInput.java:136)
+	at org.apache.tika.parser.feed.FeedParser.parse(FeedParser.java:70)
+	at org.apache.nutch.parse.tika.TikaParser.getParse(TikaParser.java:116)
+	at org.apache.nutch.parse.ParseCallable.call(ParseCallable.java:36)
+	at org.apache.nutch.parse.ParseCallable.call(ParseCallable.java:23)
+	... 4 more
+Caused by: java.lang.NullPointerException
+	at java.util.Properties$LineReader.readLine(Properties.java:434)
+	at java.util.Properties.load0(Properties.java:353)
+	at java.util.Properties.load(Properties.java:341)
+	at com.sun.syndication.io.impl.PropertiesLoader.<init>(PropertiesLoader.java:74)
+	at com.sun.syndication.io.impl.PropertiesLoader.getPropertiesLoader(PropertiesLoader.java:46)
+	at com.sun.syndication.io.impl.PluginManager.<init>(PluginManager.java:54)
+	at com.sun.syndication.io.impl.PluginManager.<init>(PluginManager.java:46)
+	at com.sun.syndication.feed.synd.impl.Converters.<init>(Converters.java:40)
+	at com.sun.syndication.feed.synd.SyndFeedImpl.<clinit>(SyndFeedImpl.java:59)
+	... 9 more
+2015-05-23 09:57:46,168 WARN  parse.ParseUtil - Unable to successfully parse content http://rohitanurag.com/?feed=rss2 of type application/rss+xml
+2015-05-23 09:57:46,171 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201311
+2015-05-23 09:57:46,219 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201412
+2015-05-23 09:57:46,251 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=185
+2015-05-23 09:57:46,287 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?m=201312
+2015-05-23 09:57:46,316 INFO  parse.ParserJob - Parsing http://rohitanurag.com/wp-content/plugins/wpclef/assets/dist/css/main.min.css?ver=2.2.8
+2015-05-23 09:57:46,316 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-05-23 09:57:46,316 WARN  parse.ParseUtil - Unable to successfully parse content http://rohitanurag.com/wp-content/plugins/wpclef/assets/dist/css/main.min.css?ver=2.2.8 of type text/css
+2015-05-23 09:57:46,319 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?paged=2
+2015-05-23 09:57:46,364 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=278
+2015-05-23 09:57:46,392 INFO  parse.ParserJob - Parsing http://rohitanurag.com/wp-content/plugins/facebook-button-plugin/css/style.css?ver=4.1.1
+2015-05-23 09:57:46,393 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-05-23 09:57:46,393 WARN  parse.ParseUtil - Unable to successfully parse content http://rohitanurag.com/wp-content/plugins/facebook-button-plugin/css/style.css?ver=4.1.1 of type text/css
+2015-05-23 09:57:46,395 INFO  parse.ParserJob - Parsing http://rohitanurag.com/xmlrpc.php
+2015-05-23 09:57:46,395 WARN  parse.ParserJob - http://rohitanurag.com/xmlrpc.php skipped. Content of size 60 was truncated to 42
+2015-05-23 09:57:46,397 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?feed=comments-rss2
+2015-05-23 09:57:46,397 WARN  parse.ParseUtil - Error parsing http://rohitanurag.com/?feed=comments-rss2
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: Could not initialize class com.sun.syndication.feed.synd.SyndFeedImpl
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:202)
+	at org.apache.nutch.parse.ParseUtil.runParser(ParseUtil.java:151)
+	at org.apache.nutch.parse.ParseUtil.parse(ParseUtil.java:131)
+	at org.apache.nutch.parse.ParseUtil.process(ParseUtil.java:181)
+	at org.apache.nutch.parse.ParserJob$ParserMapper.map(ParserJob.java:135)
+	at org.apache.nutch.parse.ParserJob$ParserMapper.map(ParserJob.java:82)
+	at org.apache.hadoop.mapreduce.Mapper.run(Mapper.java:145)
+	at org.apache.hadoop.mapred.MapTask.runNewMapper(MapTask.java:764)
+	at org.apache.hadoop.mapred.MapTask.run(MapTask.java:364)
+	at org.apache.hadoop.mapred.LocalJobRunner$Job$MapTaskRunnable.run(LocalJobRunner.java:223)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.sun.syndication.feed.synd.SyndFeedImpl
+	at com.sun.syndication.io.SyndFeedInput.build(SyndFeedInput.java:136)
+	at org.apache.tika.parser.feed.FeedParser.parse(FeedParser.java:70)
+	at org.apache.nutch.parse.tika.TikaParser.getParse(TikaParser.java:116)
+	at org.apache.nutch.parse.ParseCallable.call(ParseCallable.java:36)
+	at org.apache.nutch.parse.ParseCallable.call(ParseCallable.java:23)
+	... 4 more
+2015-05-23 09:57:46,398 WARN  parse.ParseUtil - Unable to successfully parse content http://rohitanurag.com/?feed=comments-rss2 of type application/rss+xml
+2015-05-23 09:57:46,403 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?p=299
+2015-05-23 09:57:46,438 INFO  parse.ParserJob - Parsing http://rohitanurag.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50
+2015-05-23 09:57:46,439 ERROR tika.TikaParser - Can't retrieve Tika parser for mime-type text/css
+2015-05-23 09:57:46,439 WARN  parse.ParseUtil - Unable to successfully parse content http://rohitanurag.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50 of type text/css
+2015-05-23 09:57:46,442 INFO  parse.ParserJob - Parsing http://rohitanurag.com/?cat=1
+2015-05-23 09:57:46,503 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:57:46,943 INFO  parse.ParserJob - ParserJob: success
+2015-05-23 09:57:46,944 INFO  parse.ParserJob - ParserJob: finished at 2015-05-23 09:57:46, time elapsed: 00:00:05
+2015-05-23 09:58:08,835 INFO  crawl.DbUpdaterJob - DbUpdaterJob: starting at 2015-05-23 09:58:08
+2015-05-23 09:58:08,835 INFO  crawl.DbUpdaterJob - DbUpdaterJob: updatinging all
+2015-05-23 09:58:08,901 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-alternative/plugin.xml (No such file or directory)
+2015-05-23 09:58:08,907 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/index-omit/plugin.xml (No such file or directory)
+2015-05-23 09:58:08,915 WARN  plugin.PluginRepository - Error while loading plugin `/home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml` java.io.FileNotFoundException: /home/rohit/nutch/runtime/local/plugins/filter-xpath/plugin.xml (No such file or directory)
+2015-05-23 09:58:10,094 WARN  util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2015-05-23 09:58:11,160 INFO  crawl.FetchScheduleFactory - Using FetchSchedule impl: org.apache.nutch.crawl.DefaultFetchSchedule
+2015-05-23 09:58:11,160 INFO  crawl.AbstractFetchSchedule - defaultInterval=2592000
+2015-05-23 09:58:11,160 INFO  crawl.AbstractFetchSchedule - maxInterval=7776000
+2015-05-23 09:58:11,631 WARN  mapred.FileOutputCommitter - Output path is null in cleanup
+2015-05-23 09:58:12,406 INFO  crawl.DbUpdaterJob - DbUpdaterJob: finished at 2015-05-23 09:58:12, time elapsed: 00:00:03
